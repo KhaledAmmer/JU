@@ -1,0 +1,385 @@
+<resources>
+    <string name="app_name">CHE JU </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="adshome">ca-app-pub-6764160827613754/3067231406</string>
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="T599_Ej_S1">
+
+        <item>General Chemistry I </item>
+        <item>اGeneral Chemistry I Lab</item>
+        <item>General Chemistry II</item>
+        <item>General physics II </item>
+        <item>Chemical Engineering Principles I</item>
+
+
+    </string-array>
+
+
+    <string-array name="T599_Ej_S2">
+        <item>Chemical Engineering Principles II</item>
+        <item>Fluid Mechanisme </item>
+        <item>Calculus III</item>
+        <item>Mathematical</item>
+        <item>Analytical Chemistry</item>
+        <item>Analytical Chemistry Lab</item>
+        <item>Organic Chemistry</item>
+        <item>Organic Chemistry Lab</item>
+        <item> Electrical </item>
+
+
+    </string-array>
+
+    <string-array name="T599_Ej_S3">
+        <item>Thermo I</item>
+        <item>Thermo II</item>
+        <item>Solid Operations</item>
+        <item>Heat Transfer</item>
+        <item>Numerical Methods</item>
+        <item> Statistic</item>
+        <item>Environmental Engineering</item>
+
+
+    </string-array>
+
+    <string-array name="T599_Ej_S4">
+        <item>Mass Transfer</item>
+        <item>Reaction I</item>
+        <item> Reaction II</item>
+        <item> Control</item>
+        <item> Combined</item>
+        <item> Process Design</item>
+        <item>Process Safety Engineering</item>
+        <item>Physical Chemistry</item>
+
+
+    </string-array>
+
+    <string-array name="T599_Ej_S5">
+        <item>Local Chemical Industries</item>
+        <item>Process Dynamic And Control </item>
+        <item> Chemical Plant Design </item>
+
+
+    </string-array>
+
+    <string-array name="Jam3a_Ej">
+        <item>Military Science</item>
+        <item>National Culture </item>
+        <item>Learning And Research Skills</item>
+        <item>Communication Skills</item>
+        <item>Introduction To Philosophy And Critical Thinking</item>
+
+
+    </string-array>
+
+    <string-array name="Jam3a_E5Ty">
+        <item>Group I</item>
+        <item>Group II </item>
+        <item>Group III </item>
+    </string-array>
+
+    <string-array name="Jam3a_E5Tyar">
+        <item>المجموعة الأولى</item>
+        <item>المجموعة الثانية </item>
+        <item>المجموعة الثالثة </item>
+    </string-array>
+
+
+    <string-array name="E5TY_Jam3a_G1">
+        <item> Islam And Contemporary Issues </item>
+
+        <item> Jordan History And Civilization </item>
+
+        <item> Jerusalem </item>
+
+    </string-array>
+    <string-array name="E5TY_Jam3a_G2">
+        <item> Environmental Culture </item>
+        <item> Islamic Culture </item>
+        <item> Health Culture </item>
+        <item> Physical Fitness Culture </item>
+
+
+    </string-array>
+
+    <string-array name="E5TY_Jam3a_G3">
+        <item> Electronic Commerce </item>
+        <item> Social Media </item>
+        <item> Appreciation od Arts </item>
+        <item> Special Subject </item>
+
+
+    </string-array>
+
+    <string-array name="Klia_Ej">
+        <item> C++</item>
+        <item> Calculus I</item>
+        <item> Calculus II</item>
+        <item> Physics I</item>
+        <item> Physics I Lab</item>
+        <item> Technical Writing</item>
+        <item> Engineering Economy</item>
+        <item> Engineering Workshop</item>
+        <item> Introduction To Engineering</item>
+        <item> Engineering Graphics</item>
+
+
+    </string-array>
+
+    <string-array name="T599_Ej">
+        <item> 1st Year </item>
+        <item> 2nd Year </item>
+        <item> 3rd Year </item>
+        <item> 4th Year </item>
+        <item> 5th Year </item>
+        <item>  Labs  </item>
+    </string-array>
+    <string-array name="T599_Ejar">
+        <item> السنة أولى </item>
+        <item> السنة الثانية </item>
+        <item> السنة الثالثة </item>
+        <item> السنة الرابعة </item>
+        <item> السنة الخامسة </item>
+        <item>  مختبرات  </item>
+    </string-array>
+
+    <string-array name="Ej_3am">
+        <item> Basics Of Computer </item>
+        <item> Basics Of Arabic </item>
+        <item> Arabic Language Skills </item>
+        <item> Basics Of English </item>
+        <item> English Language Skills </item>
+
+    </string-array>
+
+    <string-array name="T599_E5Ty_S1">
+
+        <item>Management </item>
+        <item>Air Pollution </item>
+        <item>Quality Control </item>
+        <item>Selected Topics </item>
+        <item>Engineering Materials</item>
+        <item>Separation Process  </item>
+        <item>Solid Wast Management </item>
+        <item>BioChemical Engineering </item>
+        <item>Corrosion Engineering </item>
+        <item>Process Optimization </item>
+        <item>Water Desalination </item>
+        <item>Waste Water Treatment </item>
+        <item>Metal Extraction </item>
+        <item>Polymers And Plastic Engineering </item>
+        <item>Process Analysis And Simulation </item>
+
+
+    </string-array>
+
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    ِ
+    //Labs
+    <string-array name="Labs">
+        <item>Lab I</item>
+        <item>Lab II</item>
+        <item>Lab III</item>
+        <item>Lab IV</item>
+        <item>General chemistry Lab</item>
+        <item>Analytical Lab</item>
+        <item>Organic Lab</item>
+        <item>Lab Physics I</item>
+        <item>Matlab</item>
+
+
+    </string-array>
+    ************************************************************
+    <string-array name="rmoz">
+        <item>----</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="sa3at">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+    </string-array>
+    <string-array name="rmoz_mo3ada">
+        <item>----</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="tkno">
+        <item>----</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="hash">
+        <item>----</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+
+
+    <string-array name="me2awi">
+        <item>	100	</item>
+        <item>	99	</item>
+        <item>	98	</item>
+        <item>	97	</item>
+        <item>	96	</item>
+        <item>	95	</item>
+        <item>	94	</item>
+        <item>	93	</item>
+        <item>	92	</item>
+        <item>	91	</item>
+        <item>	90	</item>
+        <item>	89	</item>
+        <item>	88	</item>
+        <item>	87	</item>
+        <item>	86	</item>
+        <item>	85	</item>
+        <item>	84	</item>
+        <item>	83	</item>
+        <item>	82	</item>
+        <item>	81	</item>
+        <item>	80	</item>
+        <item>	79	</item>
+        <item>	78	</item>
+        <item>	77	</item>
+        <item>	76	</item>
+        <item>	75	</item>
+        <item>	74	</item>
+        <item>	73	</item>
+        <item>	72	</item>
+        <item>	71	</item>
+        <item>	70	</item>
+        <item>	69	</item>
+        <item>	68	</item>
+        <item>	67	</item>
+        <item>	66	</item>
+        <item>	65	</item>
+        <item>	64	</item>
+        <item>	63	</item>
+        <item>	62	</item>
+        <item>	61	</item>
+        <item>	60	</item>
+        <item>	59	</item>
+        <item>	58	</item>
+        <item>	57	</item>
+        <item>	56	</item>
+        <item>	55	</item>
+        <item>	54	</item>
+        <item>	53	</item>
+        <item>	52	</item>
+        <item>	51	</item>
+        <item>	50	</item>
+        <item>	49	</item>
+        <item>	48	</item>
+        <item>	47	</item>
+        <item>	46	</item>
+        <item>	45	</item>
+        <item>	44	</item>
+        <item>	43	</item>
+        <item>	42	</item>
+        <item>	41	</item>
+        <item>	40	</item>
+        <item>	39	</item>
+        <item>	38	</item>
+        <item>	37	</item>
+        <item>	36	</item>
+        <item>	35	</item>
+        <item>	34	</item>
+        <item>	33	</item>
+        <item>	32	</item>
+        <item>	31	</item>
+        <item>	30	</item>
+        <item>	29	</item>
+        <item>	28	</item>
+        <item>	27	</item>
+        <item>	26	</item>
+        <item>	25	</item>
+        <item>	24	</item>
+        <item>	23	</item>
+        <item>	22	</item>
+        <item>	21	</item>
+        <item>	20	</item>
+        <item>	19	</item>
+        <item>	18	</item>
+        <item>	17	</item>
+        <item>	16	</item>
+        <item>	15	</item>
+        <item>	14	</item>
+        <item>	13	</item>
+        <item>	12	</item>
+        <item>	11	</item>
+        <item>	10	</item>
+        <item>	9	</item>
+        <item>	8	</item>
+        <item>	7	</item>
+        <item>	6	</item>
+        <item>	5	</item>
+        <item>	4	</item>
+        <item>	3	</item>
+        <item>	2	</item>
+        <item>	1	</item>
+
+
+    </string-array>
+
+</resources>

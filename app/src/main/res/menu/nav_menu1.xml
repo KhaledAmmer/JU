@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group>
+        <item
+            android:id="@+id/unit"
+            android:title="Unit Converter" />
+
+        <item
+            android:id="@+id/satp"
+            android:title="Saturated Pressure" />
+        <item
+            android:id="@+id/dew_bubble"
+            android:title="Bubble_Dew_Calculation" />
+        <item
+            android:id="@+id/Eos"
+            android:title="Equation Of State" />
+        <item
+            android:id="@+id/fugs"
+            android:title="Fugacity Solver" />
+
+
+
+
+
+    </group>
+    <item android:title="More_App">
+        <menu>
+            <item
+                android:id="@+id/chee"
+                android:icon="@drawable/ic_b2"
+                android:title="Chemical Engineering Ju" />
+
+            <item
+                android:id="@+id/tasjel"
+                android:icon="@drawable/ic_thinking"
+                android:title="أحسب معدلك" />
+
+        </menu>
+    </item>
+
+    <group>
+        <item android:title= "Feedback">
+            <menu>
+
+                <item
+                    android:id="@+id/giveyourfeedback"
+                    android:icon="@drawable/ic_baseline_feedback_24"
+                    android:title="Give Feedback" />
+                <item
+                    android:id="@+id/checkupdate"
+                    android:icon="@drawable/ic_baseline_update_24"
+                    android:title="Check For Update" />
+
+
+            </menu>
+
+        </item>
+    </group>
+
+
+
+
+
+
+
+
+</menu>

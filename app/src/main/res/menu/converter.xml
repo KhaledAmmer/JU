@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+        android:id="@+id/pressure2"
+        android:enabled="true"
+        android:icon="@drawable/ic_pressure"
+        android:textSize="@dimen/material_emphasis_disabled"
+        android:title="Pressure"
+
+        />
+    <item
+        android:id="@+id/temperature12"
+        android:enabled="true"
+        android:icon="@drawable/ic_temperature"
+        android:textSize="@dimen/material_emphasis_disabled"
+        android:title="Temperature" />
+    <item
+        android:id="@+id/force"
+        android:enabled="true"
+        android:icon="@drawable/ic_work"
+        android:textSize="@dimen/material_emphasis_disabled"
+        android:title="Force" />
+    <item
+        android:id="@+id/work"
+        android:enabled="true"
+        android:icon="@drawable/ic_force"
+        android:textSize="@dimen/material_emphasis_disabled"
+        android:title="Work" />
+    <item
+        android:id="@+id/power"
+        android:enabled="true"
+        android:icon="@drawable/ic_power"
+        android:textSize="@dimen/material_emphasis_disabled"
+        android:title="Power" />
+
+
+
+
+
+
+
+
+</menu>

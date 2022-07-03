@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group>
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/ic_thinking"
+            android:title="من هو المهندس الكيميائي؟" />
+
+
+        <item
+            android:id="@+id/thermo"
+            android:icon="@drawable/ic_ppa"
+            android:title="ThermoSolver" />
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic_ca"
+            android:title="أحسب معدلك" />
+
+        <item
+            android:id="@+id/com"
+            android:icon="@drawable/ic_baseline_laptop_24"
+            android:title="ثبت التطبيق على الحاسوب" />
+
+    </group>
+
+    <group>
+        <item android:title= "Feedback">
+            <menu>
+
+                <item
+                    android:id="@+id/giveyourfeedback"
+                    android:icon="@drawable/ic_baseline_feedback_24"
+                    android:title="Give Feedback" />
+                <item
+                    android:id="@+id/checkupdate"
+                    android:icon="@drawable/ic_baseline_update_24"
+                    android:title="Check For Update" />
+                <item
+                    android:id="@+id/favoraite"
+                    android:icon="@drawable/favorite_24"
+                    android:title="Contact Me" />
+
+
+            </menu>
+
+        </item>
+    </group>
+
+
+
+
+    <item android:title="Sites">
+        <menu>
+            <item
+                android:id="@+id/ju"
+                android:icon="@drawable/ic_uni"
+                android:title="موقع الجامعة الرسمي" />
+
+            <item
+                android:id="@+id/tasjel"
+                android:icon="@drawable/ic_uni"
+                android:title="موقع التسجيل الجامعة الأردنية" />
+
+
+            <item
+                android:id="@+id/elearning"
+                android:icon="@drawable/ic_uni"
+                android:title="Elearning" />
+
+        </menu>
+    </item>
+
+
+
+</menu>

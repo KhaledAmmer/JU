@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+  >
+
+    <item
+        android:id="@+id/a"
+        android:enabled="true"
+        android:title="A"
+
+        />
+    <item
+        android:id="@+id/am"
+        android:enabled="true"
+        android:title="A-" />
+    <item
+        android:id="@+id/bp"
+        android:enabled="true"
+        android:title="B+" />
+    <item
+        android:id="@+id/b"
+        android:enabled="true"
+        android:title="B" />
+
+    <item
+        android:id="@+id/bm"
+        android:enabled="true"
+        android:title="B-" />
+
+    <item
+        android:id="@+id/cp"
+        android:enabled="true"
+        android:title="C+" />
+    <item
+        android:id="@+id/c"
+        android:enabled="true"
+        android:title="C" />
+    <item
+        android:id="@+id/cm"
+        android:enabled="true"
+        android:title="C-" />
+    <item
+        android:id="@+id/dp"
+        android:enabled="true"
+        android:title="D+" />
+    <item
+        android:id="@+id/d"
+        android:enabled="true"
+        android:title="D" />
+
+    <item
+        android:id="@+id/dm"
+        android:enabled="true"
+        android:title="D-" />
+
+    <item
+        android:id="@+id/f"
+        android:enabled="true"
+        android:title="F" />
+
+
+
+
+
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/style2"
+    tools:context=".MainActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu"
+        android:layout_width="match_parent"
+        android:layout_height="675dp"
+        android:layout_below="@+id/adView"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="56dp"
+        android:background="@drawable/style2"
+        android:layoutDirection="ltr"
+        android:scrollbars="vertical" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/bottom_navigation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/style2"
+                app:menu="@menu/menu"
+                app:itemTextColor="#0C0B0B"
+                app:itemIconSize="30dp"
+                android:textAlignment="center"
+                app:itemIconTint="#0E1010"
+                app:labelVisibilityMode="labeled"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

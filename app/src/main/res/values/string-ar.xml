@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="T599_Ej_S1ar">
+
+        <item> الكيمياء العامة 1 </item>
+        <item> ا مختبر الكيمياء العام الأول </item>
+        <item> الكيمياء العامة 2 </item>
+        <item> الفيزياء العامة 2 </item>
+        <item> مبادئ الهندسة الكيميائية 1 </item>
+
+
+    </string-array>
+
+
+    <string-array name = "T599_Ej_S2ar">
+        <item> مبادئ الهندسة الكيميائية 2 </item>
+        <item> ميكانيكا الموائع </item>
+        <item> كالكولاس 3 </item>
+        <item> الطرق الرياضية في الهندسة الكيميائية </item>
+        <item> الكيمياء التحليلية </item>
+        <item> مختبر الكيمياء التحليلية </item>
+        <item> الكيمياء العضوية </item>
+        <item>مختبر الكيمياء العضوية </item>
+        <item> إلكتريكال </item>
+
+
+    </string-array>
+    <string-array name = "T599_Ej_S3ar">
+        <item> ثيرمو 1 </item>
+        <item> ثيرمو 2 </item>
+        <item> الدقائق الصلبة </item>
+        <item> انتقال الحرارة في العمليات </item>
+        <item> الطرق العددية </item>
+        <item> الإحصاء </item>
+        <item> هندسة البيئة </item>
+
+
+    </string-array>
+
+    <string-array name="T599_Ej_S4ar">
+        <item>انتقال المادة </item>
+        <item>ريآكشن 1</item>
+        <item> ريآكشن 2</item>
+        <item> التحكم في العمليات </item>
+        <item> انتقال الحرارة والمادة</item>
+        <item> تصميم العمليات </item>
+        <item>هندسة السلامة الصناعية </item>
+        <item>الكيمياء الفيزيائية</item>
+
+
+    </string-array>
+    <string-array name = "T599_Ej_S5ar">
+        <item> الصناعات الكيماوية المحلية </item>
+        <item> ديناميكا العمليات والتحكم </item>
+        <item> تصميم المصانع الكيميائي </item>
+
+
+    </string-array>
+
+    <string-array name = "Jam3a_Ejar">
+        <item> العلوم العسكرية </item>
+        <item> الثقافة الوطنية </item>
+        <item> مهارات التعلم والبحث </item>
+        <item> مهارات التواصل </item>
+        <item> مقدمة في الفلسفة والتفكير النقدي </item>
+
+
+
+    </string-array>
+
+    <string-array name = "Klia_Ejar">
+        <item> المهارات الحاسوبية للكليات العلمية </item>
+        <item> كالكولاس 1 </item>
+        <item> كالكولاس 2 </item>
+        <item> الفيزياء 1 </item>
+        <item>مختبر الفيزياء العامة </item>
+        <item> الكتابة الفنية </item>
+        <item> الاقتصاد الهندسي </item>
+        <item> مشاغل هندسية </item>
+        <item> مقدمة في الهندسة </item>
+        <item> الرسم الهندسي </item>
+
+
+    </string-array>
+    <string-array name = "Ej_3amar">
+    <item> أساسيات الكمبيوتر </item>
+    <item> مهارات الحاسوب </item>
+    <item> أساسيات العربي </item>
+    <item> مهارات اللغة العربية </item>
+    <item> أساسيات الانكليزي </item>
+    <item> مهارات اللغة الإنجليزية </item>
+    </string-array>
+
+
+    <string-array name = "T599_E5Ty_S1ar">
+        <item> الإدارة في الهندسة الكيميائية </item>
+        <item> تلوث الهواء </item>
+        <item> ضبط الجودة </item>
+        <item> مواضيع مختارة </item>
+        <item> علم المواد الهندسية </item>
+        <item> عمليات الفصل </item>
+        <item> إدارة النفايات الصلبة </item>
+        <item> هندسة الكيمياء الحيوية </item>
+        <item> هندسة التآكل </item>
+        <item> تحسين العمليات </item>
+        <item> تحلية المياه </item>
+        <item>معالجة مياه عادمة </item>
+        <item> استخراج المعادن </item>
+        <item> البوليمرات وهندسة البلاستيك </item>
+        <item> تحليل ومحاكاة العمليات </item>
+    </string-array>
+
+    <string-array name = "E5TY_Jam3a_G1ar">
+        <item> الإسلام والقضايا المعاصرة </item>
+
+        <item>تاريخ الأردن والحضارة </item>
+
+        <item> القدس </item>
+
+    </string-array>
+    <string-array name = "E5TY_Jam3a_G2ar">
+        <item> الثقافة البيئية </item>
+        <item> الثقافة الإسلامية </item>
+        <item> الثقافة الصحية </item>
+        <item> ثقافة اللياقة البدنية </item>
+
+
+    </string-array>
+
+    <string-array name = "E5TY_Jam3a_G3ar">
+        <item> التجارة الالكترونية </item>
+        <item> وسائل التواصل الاجتماعي </item>
+        <item> تذوق فني </item>
+        <item> موضوع خاص </item>
+
+
+    </string-array>
+</resources>

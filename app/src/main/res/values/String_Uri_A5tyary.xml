@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="C_Plus_Plus_Uri">
+        <item> https://drive.google.com/file/d/15hcdCgr5MsHi3vUqjB2lHuWhyofER-0N/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1Yq7ty25xiZATDuQZhHPD77VwOLcvIxFm/view?usp=sharing  </item>
+        <item> https://drive.google.com/drive/folders/1tne_icuSjuwhS4QxCF1Dv8E-tLmPYyZs?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Q4wpQQmD3Ltg4EN42UeB3AWb9aX1KLku/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1gzUUdZ8KpuVgYSAAtfJUZdIo2n-G91m_/view?usp=sharing  </item>
+        <item> https://drive.google.com/drive/folders/1dys3cxovaOod0OQJjZE7mD3mjycCj57Q?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Calculus_I_Uri">
+        <item> https://drive.google.com/file/d/1Uduaxr_YgbOFPjr6ncC8_KXHqFRZLM2H/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1Uw5g4NSm9F-r17KKi2cbJZMoi-Dv7YQP/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/16a092D_3GP22QkpgF6QdUcJp8hynsyj4/view?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Calculus_II_Uri">
+        <item> https://drive.google.com/file/d/1Uduaxr_YgbOFPjr6ncC8_KXHqFRZLM2H/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1Uw5g4NSm9F-r17KKi2cbJZMoi-Dv7YQP/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1ecIm5WbL0bHC8bHV0Z4ZVQiuddh6Z8NB/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/1Y1dDKBpkOIofdxeUnGRnK8iCW4FGa2MN/view?usp=sharing</item>
+        <item> https://drive.google.com/open?id=1Y09F_pY3j-9ShC1p7PDoZkR2WonZjJaq </item>
+        <item> https://drive.google.com/file/d/1ibWXuabHkPnnWRIKiX0cXWHE4u1cgwem/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1ZXEHkquOCESaG_2h7-wlY8X8NTbjj6AM/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="Physics_I_Uri">
+        <item> https://drive.google.com/file/d/1B8OPR-I3yjyMgKbW2MExZS7ioMOGbvUm/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1KC3CI2cuht5czkoaWjc4i-KRqAiWsOwH/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1kxOxY1rhjEERZSrsZUTEwF_Pqve4vrH4/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Xa0TUwF3ezVkw5cmaAm7BeeEebC8RJvC/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1dryUqp56SB3r3Y3oPZcexOglh34aoC3B/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1-uiK7_unVbnCFSdcxfrPZ2-srMEIZfEW?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1__4Mzg2R6q3ce6J2gGVbB_YFGsdQJWi3?usp=sharing</item>
+
+
+    </string-array>
+
+    <string-array name="Physics_I_Lab_Uri">
+        <item> https://drive.google.com/file/d/1SQF7LiBUJfq9SwJVs453_HNyE0TFZDo4/view?usp=sharing  </item>
+        <item> https://drive.google.com/drive/folders/1Txo_utRagmZexCOleDdgTh_9b2E_yWUu?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1-RkYblw9aSKlBQ016AF76dLC7sKDHfYn/view?fbclid=IwAR207gmCqw7yJ5-nfnI-HMUGfk2Ds7PXvXDTCmlI2tDEwSHfQz0Qd3AHDuI  </item>
+
+    </string-array>
+
+    <string-array name="Technical_Writing_Uri">
+        <item> https://drive.google.com/file/d/10ziWqDnNot7MFwVxzYI9uTWDuIR4ZA-l/view?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1aSWn_ZyCYuqHThdBY9vtUYbH26vEH43R?usp=sharing  </item>
+        <item> https://www.easybib.com/mla8/book/search-form </item>
+        <item> https://www.facebook.com/groups/642950333201988/ </item>
+    </string-array>
+
+    <string-array name="Engineering_Economy_Uri">
+        <item> https://drive.google.com/file/d/1YyXgeaeeJ6HIF8jzzXX4CfxNRydKQCQn/view?usp=sharing  </item>
+        <item> https://drive.google.com/drive/folders/1GKGyBZDOT4WiDWA9uQzdf_4W_Ou9hv3b?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1D84XO8otm2Fx-OmFmqXqxc3KgNjpOc1d?usp=sharing</item>
+        <item>https://drive.google.com/open?id=1mLn7imiVVPqrriuiZ_m2SvYi0Pwl-pLa </item>
+    </string-array>
+
+
+    <string-array name="Engineering_Workshop_Uri">
+        <item> https://drive.google.com/open?id=1mGjrOVMzA4Cnrwv4Q0ipw03uhZrfQlls </item>
+        <item> https://drive.google.com/open?id=1Hn5jDGhe2Ey9qSPsEDuHkEMjhacNgWFP </item>
+    </string-array>
+
+    <string-array name="Introduction_To_Engineering_Uri">
+        <item> https://drive.google.com/drive/folders/1kmANSVi95dlsAQt2hHbZRIqrgU0sbNkM?usp=sharing </item>
+        <item> https://drive.google.com/open?id=0B1QDoVfRuDpMbWZvMENRei0zWW8</item>
+    </string-array>
+
+    <string-array name="Engineering_Graphics_Uri">
+        <item>https://drive.google.com/drive/folders/1CeoNiPAmY9akzxe3HOq5qwcmtVy5lRDW?usp=sharing </item>
+        <item>https://www.slideshare.net/secret/E2AE4F8CgbCL0M</item>
+        <item>https://drive.google.com/drive/folders/1rP4RSJodHtXz-uGhEvW6ho521b5Kvjpf?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1ScyUjIvQcpUo-vor0Isqh57nLSUkrmM9/view?usp=sharing</item>
+    </string-array>
+
+    //*****************************************************************************
+    //*****************************************************************************
+    //***************************************************************************** Ejbary jam3a
+
+    <string-array name="English_basics_Uri">
+        <item> https://drive.google.com/file/d/1P83OJAlegoLzBnjCSUuRwV053kgXaaX6/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/16fSL_feq9DxvRyCJYJQWFoMsPwFHu_dH/view?fbclid=IwAR1SZYN2Zc3McCwf68JcxbVjIupD6u8CUNq1TFP1K1pDIYBHviHMVcVbUL4</item>
+        <item> https://www.facebook.com/groups/131940518066151/?ref=share	 </item>
+    </string-array>
+    <string-array name="English_Skills_Uri">
+        <item>  https://drive.google.com/file/d/1s4rVhJgnw2KM4SouCo3-OCQePwX__cKV/view?fbclid=IwAR3xeAV46h-eKDbWWAN4QGbrQnD0W3IlFaW20dJvZgIgVe8svEIEjH3c5vg </item>
+        <item>  https://drive.google.com/file/d/1G_Ar5bkPmx5bfSas0TehkEV2edlRKtxo/view?fbclid=IwAR1JnLVC-8qX1wzoX_WjFvwR_8Nxgf4_e2G0ddTddefbAtXE2LmGtDknQAg	 </item>
+        <item> https://www.facebook.com/groups/131940518066151/?ref=share</item>
+
+    </string-array>
+
+    <string-array name="Arabic_basics_Uri">
+        <item>  https://drive.google.com/file/d/1F8sZ7BN_xKpGej7z1zP2h_L44ao87vOf/view?usp=sharing </item>
+        <item>  https://drive.google.com/file/d/1Kl_2_KM_ahhfORurntMy6Qmq_0JhG8dL/view?fbclid=IwAR3aQqNxvZMyZrE5xq5RjYibsgcDG6in2BaaSgUx10mk6F56uGNluTr7meM	 </item>
+        <item> https://www.facebook.com/groups/arabi99/</item>
+
+    </string-array>
+
+    <string-array name="Arabic_Skills_Uri">
+        <item>  https://drive.google.com/file/d/1b2jeNaWuh7HZTdJ4M_Wd4toTF8vIY8mn/view?usp=sharing	 </item>
+        <item>  https://drive.google.com/file/d/1WRU4j93Qj8TValt6Hkm80rPUAzhqh4TJ/view?fbclid=IwAR3VmVyeTKgbRr62tu2Fxa937qaBvXwTqlp4tE8pOG8P7oReHlrTyy4GCDo	 </item>
+        <item> https://www.facebook.com/groups/arabi100ju/</item>
+
+    </string-array>
+
+
+    <string-array name="Computer_basics_Uri">
+        <item> https://www.facebook.com/groups/computer99ju/</item>
+
+    </string-array>
+
+
+</resources>

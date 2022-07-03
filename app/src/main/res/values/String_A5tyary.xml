@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="C_Plus_Plus">
+        <item> C++_Programming_From_Problem_Analysis_to_Program_Design_6th_ed  </item>
+        <item> Dr.Jamal Notes  </item>
+        <item> Mohammed Abu Khalif Summary  </item>
+        <item> Mohammed Abu Khalif Questions Final </item>
+        <item> 40 Diaa Questions Final  </item>
+        <item> Past Papers </item>
+    </string-array>
+
+    <string-array name="Calculus_I">
+        <item> Calculus Stewart 7th  </item>
+        <item> Calculus Stewart 7th Solutions  </item>
+        <item> 1st &amp; 2nd  Past Papers  </item>
+    </string-array>
+
+    <string-array name="Calculus_II">
+        <item> Calculus Stewart 7th  </item>
+        <item> Calculus Stewart 7th Solutions  </item>
+        <item> Dr.Mona Notes  </item>
+        <item> Engineer Kareem Sharbaji   </item>
+        <item> Dr.Hasan Notes  </item>
+        <item> First Exam Past Papers </item>
+        <item> Second Exam Past Papers  </item>
+    </string-array>
+
+    <string-array name="Physics_I">
+        <item> Serway – Physics for Scientists 8th edition book </item>
+        <item> Serway – Physics for Scientists 8th edition book Manual Solution  </item>
+        <item> Serway, Jewett – Physics for Scientists, 9th Ed  </item>
+        <item> Serway Physics 9th Ed Solution Manual </item>
+        <item> Very Important;Physics Exersises For All Chapters </item>
+        <item> First Exam Past Papers   </item>
+        <item> Second Exam Past Papers </item>
+        <item> Final Exam Past Papers  </item>
+
+    </string-array>
+
+    <string-array name="Physics_I_Lab">
+        <item> Reports  </item>
+        <item> Past Papers   </item>
+        <item> Mol5s_Hadeel _Mahmoud_KL_Tjarb  </item>
+    </string-array>
+
+    <string-array name="Technical_Writing">
+        <item> Technical Report Writing Today  </item>
+        <item>Slides</item>
+        <item> Citation_Website_APA_MLA </item>
+        <item> Facebook Group </item>
+    </string-array>
+
+    <string-array name="Engineering_Economy">
+        <item> Engineering Economy, 16th Edition by William G. Sullivan and Elin M. Wicks  </item>
+        <item>Assignments  </item>
+        <item> Dr Ghaleb Sweis slides </item>
+        <item>Pastpapers </item>
+    </string-array>
+
+    <string-array name="Engineering_Workshop">
+        <item> workshop, full material 2018  </item>
+        <item> reports solution  </item>
+    </string-array>
+
+    <string-array name="Introduction_To_Engineering">
+        <item> Dr.Musa Al-Yaman Slides </item>
+        <item> Past Papers</item>
+    </string-array>
+
+    <string-array name="Engineering_Graphics">
+        <item> Manual &amp; Autocad Sheets	 </item>
+        <item> Manual &amp;Sheets Solutions	 </item>
+        <item> Manual, Past Paper	 </item>
+        <item> Autocad, Past Paper</item>
+
+    </string-array>
+
+    //*****************************************************************************
+    //*****************************************************************************
+    //***************************************************************************** Ejbary 3am jam3a
+
+    <string-array name="English_basics">
+        <item> ملخص النشامى </item>
+        <item>  ملخص أهل الهمة </item>
+        <item> Facebook Group</item>
+
+    </string-array>
+
+    <string-array name="English_Skills">
+        <item>  Mid Summary	 </item>
+        <item>  Final Summary	 </item>
+        <item> Facebook Group</item>
+
+    </string-array>
+
+    <string-array name="Arabic_basics">
+        <item> ملخص النشامى </item>
+        <item>  ملخص أهل الهمة </item>
+        <item> Facebook Group</item>
+
+    </string-array>
+
+    <string-array name="Arabic_Skills">
+        <item> ملخص النشامى </item>
+        <item>  ملخص أهل الهمة </item>
+        <item> Facebook Group</item>
+
+    </string-array>
+
+    <string-array name="Computer_basics">
+        <item> Facebook Group</item>
+    </string-array>
+
+    //*****************************************************************************
+    //*****************************************************************************
+    //***************************************************************************** Ejbary jam3a
+
+    <string-array name="Al3lom_Al3skrya">
+        <item> كتاب المادة</item>
+        <item> ملخص الميد أهل الهمة</item>
+        <item> ملخص الفاينل أهل الهمة</item>
+        <item> ملخص الميد الطالب بلال نقاوة </item>
+        <item> أسئلة سنوات</item>
+        <item> أسئلة سنوات 1</item>
+        <item>مجموعة المادة</item>
+
+    </string-array>
+
+    <string-array name="Al3lom_Al3skrya_Uri">
+        <item>https://drive.google.com/drive/folders/1s6LJFIbBn01xoj_9mNWQzCQlvlA-l0Z1?fbclid=IwAR1NerlU49USR322rYG7o-BVtDNP6XmPK64S4ZiZpaYb3DV7HCjrNEk4Q3U</item>
+        <item>https://drive.google.com/file/d/1WyhZfcEFF3Fh0n45kqjpef9TYQGbEUVZ/view?fbclid=IwAR1NerlU49USR322rYG7o-BVtDNP6XmPK64S4ZiZpaYb3DV7HCjrNEk4Q3U</item>
+        <item>https://drive.google.com/file/d/1WYt66B-_5T1qxQZm8I6U-RcmEgaRL7xo/view?fbclid=IwAR24srGjxGVzcRbL3XpnsMo-8bJwhWuR76HYKP13wN7ogRcjiDxFPoXJMqQ</item>
+        <item>https://drive.google.com/file/d/1vxBXqbJY3SQGTKulyE8NtJGyZBa7rgo8/view?fbclid=IwAR2FiwJGxE8bNCT2zosNpsQ3nF1F7REXGJwXKk5hhOYkDHrJBiEiOP19z7U</item>
+        <item>https://drive.google.com/file/d/1c8ARW2MuXAzLrqcSt5TJ--ehuBejydwi/view?fbclid=IwAR1cYPPkUvJlomyxTfbPRW7bUXIyvWmBicpuBH8FU9s58YjKz38y3phbbds</item>
+        <item>https://drive.google.com/file/d/0BwhYXkIlaXRFNm00UmxScVNWVkE/view?fbclid=IwAR2AE-73pe3sXOo3i9roE4QDYezmyGEXrDKOHNT-UBvObWeHNHn7KQgpweo</item>
+        <item>https://www.facebook.com/groups/282225263126755</item>
+    </string-array>
+
+
+    <string-array name="Learning_skills">
+        <item>ملخص النشامى لمادة الميد</item>
+        <item>ملخص النشامى لمادة الفاينل</item>
+        <item> كتاب المادة</item>
+        <item>ملخص أهل الهمة لمادة الميد</item>
+        <item>ملخص أهل الهمة لمادة الفاينل</item>
+        <item>اختبار ميد</item>
+        <item>اختبار ميد1</item>
+        <item>اختبار فاينل</item>
+        <item>اختبار فاينل 1</item>
+        <item>مجموعة المادة</item>
+    </string-array>
+
+    <string-array name="Learning_skills_Uri">
+        <item>https://drive.google.com/file/d/1cIcHFAQeii0VKH08cQDGHseakAetGsLa/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1dbf1y7fecFbsDIqJc2BlDkKfTfwskyrt/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1-qNDnDnAdIgR7ndIPAE4q9F-0zEd6EK8/view?fbclid=IwAR0AVLcWFsl75-M-c0emR-u1Gdue16eEPbShhnRCbYEFNQc72_cHHD87zNY</item>
+        <item>https://drive.google.com/file/d/1djEkFYNXIvUc0PUPTLYLR9BlWw-VWTyk/view?fbclid=IwAR1YkEA6w5dqtegEpdW241DIt7fRaQXNGQMuisbaJF-KNB3I5TCPCX5KYgU</item>
+        <item>https://drive.google.com/file/d/1-yufPtvY4qi_nZYTtM8GY7kqXpCgCndZ/view?fbclid=IwAR0e67BYMcsyY-kYlEpAR4ccXdR8P8tMRBXntBDBZVEoeKZxI47uMTtsFUk</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSe9FKIBxPYWKfeYww2JLn4Ffq_Fa6-_fTE-p-FoJzN0owVJsQ/formResponse?hl=en</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSc8QeGNjvM8s9og7dha2WtqPs6Qr_TnOtFxGBHvoTxdB5tIlQ/viewform</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSf1h1uGKUKlIlfVZeMaOBwO-pWNtSNsDtnlJycKHoa-vMBiLg/viewform</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSeUrEj4lBvVROlw8QF7BJFyeV7K6UFf4obL-SYENqHRVjrOow/viewform</item>
+        <item>https://www.facebook.com/groups/208741800257836</item>
+    </string-array>
+
+
+    <string-array name="Communication_skills">
+        <item>ملخص النشامى لمادة الميد</item>
+        <item>ملخص أهل الهمة لمادة الميد</item>
+        <item>ملخص أهل الهمة لمادة الفاينل</item>
+        <item>أسئلة سنوات</item>
+        <item>مجموعة المادة</item>
+    </string-array>
+
+    <string-array name="Communication_skills_Uri">
+        <item>https://drive.google.com/file/d/1C8exoC8lIVyhiICej3JBjliwrHYUKL0A/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1yV1mkBgGp4ILeaV1BCA99tyH0hpTEZm8/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1SXWjIR9TfiefQMmEYAsV5CJun41W8rVT/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/186ponkcF43ovwkT5WafsEILZ7WjNSu_C/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/117900456325313/</item>
+
+    </string-array>
+
+    <string-array name="philosophy">
+        <item>كتابة المادة</item>
+        <item>ملخص أهل الهمة كامل المادة</item>
+        <item>مراجعة الدكتور زيد لمادة الميد</item>
+        <item>مراجعة الدكتور زيد لمادة الفاينل </item>
+        <item>مراجعة الدكتور عامر لمادة الميد</item>
+        <item>امتحان تجريبي لمادة الميد</item>
+        <item>امتحان تجريبي لمادة الفاينل</item>
+        <item>مجموعة المادة</item>
+    </string-array>
+
+    <string-array name="philosophy_Uri">
+        <item>https://drive.google.com/file/d/1iWNid1fwRf1KxzL6n15xqau_Vv2i9yGb/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1IgXq2h2I7lDWrtKAJodW1yg8TYJf32bb?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1vE3l_MJofoulngRAJoyxc1cqqB0aZ-qh/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1LUcvhGIvzVbh6jQ0oL4NwXnhQmm2jvot/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1GJQvDDW2JMz6VMExHTahT5bq42jDa0Nb/view?usp=sharing</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSdyQrw3DqLMWmM6BwMuYn29O5iDb9sJjA8ceSZVJ5K1D66S0g/viewform?fbclid=IwAR3HqDQLJi3w6jIB7QnFRJqwgDPwQWVh8ZVpNs9Xl7b_rwKT1z7z55DyNRU</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSeZWeERFGk6MLe4X61b8vaQroEAl-VGGS4MyQi-NnFX5B3SFA/viewform</item>
+        <item>https://www.facebook.com/groups/falsafehju/?ref=search</item>
+
+    </string-array>
+
+
+    <string-array name="watnia">
+
+        <item>كتابة المادة</item>
+        <item>ملخص أهل الهمة كامل المادة</item>
+        <item>امتحان تجريبي لمادة الميد</item>
+        <item>امتحان تجريبي لمادة الفاينل</item>
+        <item>مجموعة المادة</item>
+    </string-array>
+
+    <string-array name="watnia_Uri">
+        <item> https://drive.google.com/file/d/1j2BDiRlmrsVwEopOgLmUwIvEobFnGwlG/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/177dSVwOXKUWWQU_UDJ8Olb1yIJp6XxtK?usp=sharing</item>
+        <item>https://linux-ju.com/quizzes/ju-a/watania-mid/</item>
+        <item>https://linux-ju.com/quizzes/ju-a/watania-final/</item>
+        <item>https://www.facebook.com/groups/thaqafa.wataniah/</item>
+
+    </string-array>
+
+
+    //*****************************************************************************
+    //*****************************************************************************
+    //***************************************************************************** E5tyary jam3a
+    <string-array name="Eslam_kdaya">
+
+        <item>ملخص أحباء الشريعة لمادة الميد غير شامل </item>
+        <item>ملخص أحباء الشريعة لمادة الكويز</item>
+        <item>ملخص أحباء الشريعة لمادة الفاينل</item>
+        <item>ملخص لمادة الفاينل</item>
+        <item>امتحان تجريبي لمادة الميد</item>
+
+    </string-array>
+
+    <string-array name="Eslam_kdaya_Uri">
+        <item>https://drive.google.com/file/d/1mFE0F4Yh9Et_tjpSm9JJzK0chhcfwxFh/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1SkMAWCAJSVRXevXT7RaYnToHGUt-n5v9/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1t-ErkkT1Bj8Zcflgpj7RgmsjC2HBKdfJ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1l52J_vaFpzj_o--YFpeSBx5KBXd_-84K/view?usp=sharing</item>
+        <item>https://www.goconqr.com/en-US/p/14246397/question/7992963-quizzes?fbclid=IwAR3lEp0wZbsFiP0tID-sQtPlkJXBl0arIBFaccPiIikm1WT782kmW_F7c24</item>
+
+    </string-array>
+
+
+    <string-array name="Althkafa_Alislmea">
+        <item>كتابة المادة</item>
+        <item>ملخص النشامى </item>
+        <item>ملخص أحباء الشريعة لمادة الميد </item>
+        <item>ملخص أهل الهمة لمادة الميد</item>
+        <item>ملخص أحباء الشريعة لمادة الفاينل</item>
+        <item>امتحان تجريبي لمادة الميد</item>
+        <item>مجموعة المادة</item>
+
+
+    </string-array>
+
+    <string-array name="Althkafa_Alislmea_Uri">
+        <item>https://drive.google.com/file/d/18B0c_dzbD4Jb8I9I36mFe6LoDM3GHsha/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1n4fOW3arH3yCyXL-PUu2gshmHUkxJYpF/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1RIUVuVzzUUKC7PC2-enmbVhjXyUUcgQB/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1FYhpPTY6oRYxz_S1_yvQQ1iKaeYndTsy/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/16hoi03i4LITg2fkNLZvEdmlJXLAy0VBq/view?usp=sharing</item>
+        <item>https://testmoz.com/2180945?fbclid=IwAR0W0iKtna395Dn90jbRSHgSIWgi3sPRwqgXNj30Q2t195NPNFXo0SFv_IU</item>
+        <item>https://www.facebook.com/groups/223815992118575/</item>
+
+    </string-array>
+
+    <string-array name="Social_Media1">
+
+
+        <item>ملخص أحباء الشريعة لمادة الميد </item>
+        <item>ملخص أهل الهمة كامل المادة</item>
+        <item>ملخص COE </item>
+        <item>ملخص الفاينل</item>
+        <item>ملخص جعفر أبو رمان لمادة الفاينل شامل</item>
+        <item>أسئلة سنوات</item>
+        <item>مجموعة المادة </item>
+
+
+    </string-array>
+
+    <string-array name="Social_Media1_Uri">
+        <item>https://drive.google.com/file/d/1jvhC6FOD2lZz6LzzqwEDIeed5gNV0U8E/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1L64hv2lUIKHLgqBg9qm_CcPhPAGfsLur?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1uPt1H3XdZ5VGZqzY1hnY_jTDgoAdoTmW/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1M0BtKAxwdTZZScjGVQzI3s9rDqT4rbRT/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1-qGLBIVzwjxoxwiLi3V9RfSeusgHFCj0/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1kSZjZblP6rYPjGcDjLPXfQIajQ1WNGSG/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/258876204828645/</item>
+
+    </string-array>
+
+    <string-array name="Alkods">
+
+        <item>ملخص أهل الهمة لمادة الميد </item>
+        <item>ملخص أهل الهمة لمادة الفاينل</item>
+        <item>اختبار تجريبي لمادة الفاينل </item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Alkods_Uri">
+        <item>https://drive.google.com/file/d/1LxSQQWTUZOhwYKzbM0sTfVWnHUPxVf_o/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1bSkpQL8eYWeI1BNwF6c2f6ycka2qu-s0?usp=sharing</item>
+        <item>https://docs.google.com/forms/d/e/1FAIpQLSfpI5wTAlLBWTgRdNpScDKUOKPmBmAm9DzyCMRVlPSzWtEUQg/viewform</item>
+        <item>https://www.facebook.com/groups/al.qudos/</item>
+    </string-array>
+
+    <string-array name="Jordan_tare5_7dara">
+
+        <item>ملخص أهل الهمة لمادة الميد </item>
+        <item>ملخص أهل الهمة لمادة الفاينل</item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="jordan_tare5_7dara_Uri">
+        <item>https://drive.google.com/drive/folders/1-EpCTuBzlbgGIo2jB67rBbTWLYMYQFvJ?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1Hzr2Gvhkmy_6vfvsa6m8pRii5KqvixNQ?usp=sharing</item>
+        <item>https://www.facebook.com/groups/ordon.taree5.wa.7adarah/</item>
+    </string-array>
+
+
+    <string-array name="Althqafa_Albeeya">
+
+        <item>ملخص أهل الهمة لمادة الميد بالإضافة لأسئلة سنوات سابقة </item>
+        <item>    ملخص أهل الهمة لمادة الكويز بالإضافة لأسئلة سنوات سابقة (الفصلين الثالث والرابع) </item>
+        <item>ملخص أهل الهمة لمادة الفاينل</item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Althqafa_Albeeya_Uri">
+        <item>https://drive.google.com/drive/folders/10f67HaTimxT56P3GVmJ5uahuC2mgbLpg?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1pQY_tjnWAOUkD-NONuqipD1K2qkbtVLH?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1OonNipXS6CHhlqREGBMm-qRcZagp-ufy/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/855645974864745/</item>
+    </string-array>
+
+    <string-array name="Althqafa_Als7ya">
+        <item>كتابة المادة</item>
+        <item>ملخص  لمادة الميد  </item>
+        <item>  ملخص فاينل </item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Althqafa_Als7ya_Uri">
+        <item>https://drive.google.com/file/d/1Gme1SWJF6bSqjawEcML3Yj0rnlYmq_Gt/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1FnKi0R1DRTz5XHoFBikXZaE7mfKAcdBF/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1RYDmyxlU1LQgHmOCkF6H34VDUsSlE6l8/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/health.culture.JU/</item>
+    </string-array>
+
+    <string-array name="Althqafa_Albadanya">
+        <item>كتابة المادة</item>
+        <item>ملخص  لمادة الميد  </item>
+        <item>  ملخص فاينل </item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Althqafa_Albadanya_Uri">
+        <item>  https://drive.google.com/file/d/1WBffrSl7Zir7lLwCwn3lR78o0-TadEnc/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1LO7IMmJwY-W31XdCvRwBorJ-06wGSFzw/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1UZ-qSKv3Tc4ko3k-djy3cnOI1oP5Ol0f/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/thaqafah.badaniah/</item>
+    </string-array>
+
+    <string-array name="Altegara_Alelctronia">
+        <item>كل ما تحتاجه للمادة</item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Altegara_Alelctronia_Uri">
+        <item> https://drive.google.com/drive/folders/1WINRsYWI8KXju6WShyLbGjvOb6ewLHTj?usp=sharing</item>
+        <item>https://www.facebook.com/groups/517989642180903/</item>
+    </string-array>
+
+    <string-array name="Modo3_5a8">
+        <item>كل ما تحتاجه للمادة</item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Modo3_5a8_Uri">
+        <item> https://drive.google.com/drive/folders/1Sf4WljOCMJgIVNDGIN1EKeCMKhV_Sz6b?usp=sharing</item>
+        <item>https://www.facebook.com/groups/877198292757591/</item>
+    </string-array>
+
+    <string-array name="Arts">
+        <item>ملخص النشامى فنون بصرية </item>
+        <item>ملخص تذوق موسيقي </item>
+        <item>مجموعة المادة </item>
+
+    </string-array>
+
+    <string-array name="Arts_Uri">
+        <item>https://drive.google.com/file/d/1Qwr5056StrFNQsXIYXM_FSlJ_npbLOlk/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1OP95rZVxF7FqloL7UuLDM_Jh1jzDpedK?usp=sharing</item>
+        <item>https://www.facebook.com/groups/265892764630901/</item>
+    </string-array>
+
+
+</resources>

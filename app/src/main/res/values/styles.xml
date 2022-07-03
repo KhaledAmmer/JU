@@ -1,0 +1,66 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">#807288</item>
+        <item name="colorAccent">#DAAB03</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/PopupMenu</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="toolbar1" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="fontFamily">@font/kr</item>
+    </style>
+    <style name="PopupMenu" parent="@android:style/TextAppearance.DeviceDefault.Widget.PopupMenu.Large">
+        <item name="android:popupBackground">@android:color/secondary_text_light_nodisable</item>
+        <item name="android:textColor">#1C111C</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAlignment">center</item>
+
+    </style>
+
+    <style name="khaled">
+        <item name="android:shape">@android:integer/config_shortAnimTime</item>
+        <item name="fontFamily">@font/alike</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14dp</item>
+
+    </style>
+    <style name="khaledd">
+        <item name="android:shape">@android:integer/config_shortAnimTime</item>
+        <item name="fontFamily">@font/alike</item>
+        <item name="android:textAlignment">textEnd</item>
+        <item name="android:textColor">#B51938</item>
+        <item name="android:textSize">14dp</item>
+
+    </style>
+
+    <style name="matrixlinear">
+    <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:text">0</item>
+        <item name="android:inputType">numberDecimal|numberSigned</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="background">@color/colorAccent</item>
+        <item name="android:textColor">#0E0003</item>
+
+    </style>
+    <style name="matrixlineaconstant">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:text">5</item>
+        <item name="android:inputType">numberDecimal|numberSigned</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="background">@color/colorAccent</item>
+        <item name="android:textColor">#0E0003</item>
+
+    </style>
+</resources>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="software">
+        <item> Matlab </item>
+        <item> Matlab Online </item>
+        <item> ChemCad</item>
+        <item>Aspen HYSYS</item>
+        <item>DWSIM </item>
+        <item>ThermoSolver</item>
+        <item>AutoCad</item>
+        <item>Humidity Chart Reader</item>
+        <item> MiniTap</item>
+        <item>Mini RefproP</item>
+        <item>Code Blocks  C++ compiler </item>
+        <item>Microsoft Office 365 </item>
+        <item>Edx </item>
+        <item>Unit Converter </item>
+        <item>Symbolab </item>
+        <item>Desmos </item>
+        <item>Slader </item>
+        <item> Gephi </item>
+        <item> Hiper Scientific Calculator </item>
+        <item>أحسب معدلك </item>
+
+    </string-array>
+    <string-array name="description">
+        <item>The Matlab platform is optimized for solving engineering and scientific problems The matrix-based MATLAB language
+            is the world’s most natural way to express computational mathematics  Built-in graphics make it easy to visualize
+            and gain insights from data A vast library of pre-built toolboxes lets you get started right away with algorithms
+            essential to your domain. The desktop environment invites experimentation, exploration, and discovery  These MATLAB
+            tools and capabilities are all rigorously tested and designed to work together  </item>
+
+        <item>The Matlab platform is optimized for solving engineering and scientific problems The matrix-based MATLAB language
+            is the world’s most natural way to express computational mathematics  Built-in graphics make it easy to visualize
+            and gain insights from data A vast library of pre-built toolboxes lets you get started right away with algorithms
+            essential to your domain. The desktop environment invites experimentation, exploration, and discovery  These MATLAB
+            tools and capabilities are all rigorously tested and designed to work together </item>
+
+        <item>Chemical process simulation software that fits into the chemical engineering
+            workflow and supercharges an engineers efficiency. Perhaps most significantly, it is able to perform many of the core calculations of
+            chemical engineering, including those concerned with mass balance, energy balance, vapor-liquid equilibrium,
+            heat transfer, mass transfer, chemical kinetics, fractionation, and pressure drop </item>
+
+        <item>chemical process simulator used to mathematically model chemical processes, from unit operations
+            to full chemical plants and refineries. HYSYS is able to perform many of the core calculations of
+            chemical engineering, including those concerned with mass balance, energy balance, vapor-liquid equilibrium,
+            heat transfer, mass transfer, chemical kinetics, fractionation, and pressure drop.
+            HYSYS is used extensively in industry and academia for steady-state and dynamic
+            simulation, process design, performance modelling, and optimization </item>
+
+        <item>DWSIM is an OPEN_SOURCE CAPE-OPEN compliant chemical process simulator for Windows, Linux and macOS.
+            DWSIM is able to perform many of the core calculations of
+            chemical engineering, including those concerned with mass balance, energy balance, vapor-liquid equilibrium,
+            heat transfer, mass transfer, chemical kinetics, fractionation, and pressure drop </item>
+
+        <item>ThermoSolver has a built-in database of chemical properties,
+        and contains a number of sub-programs which perform calculations such as finding
+        saturation pressures and fugacities, solving of equations of state, solving vapor-liquid
+        equilibrium problems, and determining chemical reaction equilibria </item>
+
+        <item> AutoCAD can be defined as the use of computer systems to assist in the creation, modification,
+            optimization of a design. In this, we can create both 2D and 3D drawings used in construction and manufacturing</item>
+
+        <item> A psychrometric chart is a graphical representation of the psychrometric processes of air. Psychrometric processes include
+            physical and thermodynamic properties such as dry bulb temperature, wet bulb temperature, humidity, enthalpy, and air density</item>
+
+        <item> Minitab is a software product that helps you to analyze the data. This is designed essentially for the Six Sigma professionals.
+            It provides a simple, effective way to input the statistical data, manipulate that data, identify
+            trends and patterns, and then extrapolate answers to the current issues</item>
+
+        <item> The mini-REFPROP program is a sample version of the full REFPROP program and is meant for use as a teaching tool in the introduction
+            of thermodynamics to students. It contains a limited number of pure fluids (water, CO2, R134a, nitrogen, methane, propane, hydrogen, and dodecane)
+            and also allows mixture calculations of nitrogen with methane for teaching vapor-liquid equilibrium (VLE)</item>
+
+        <item>  is a free, open-source cross-platform IDE that supports multiple compilers including GCC, Clang and Visual C++.
+            It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by
+            the provided plugins. Currently, Code::Blocks is oriented towards C, C++, and Fortran. It has a custom build system and optional Make support</item>
+
+        <item> It provides  Word, Excel and other Microsoft applications (2016) for free . Just enter your university email  </item>
+
+        <item> edX is an American massive open online course (MOOC) provider created by Harvard and MIT.
+            It hosts online university-level courses in a wide range of disciplines to a worldwide student body,
+            including some courses at no charge. It also conducts research into learning based on how people use its platform.</item>
+
+        <item>Convert from unit system to another </item>
+
+        <item>It is an online service that computes step-by-step solutions to mathematical problems in a range of subjects. </item>
+
+        <item> Desmos can graph color coded functions, plot tables of data, transformations, and more. Free </item>
+
+        <item> Teaches students how to learn with step-by-step solutions, subject-matter expertise and a global network of student contributors. </item>
+
+        <item> Gephi is an open-source software for network visualization and analysis. It helps data analysts to intuitively reveal patterns and trends,
+            highlight outliers and tells stories with their data. It uses a 3D render engine to display large graphs in real-time and to speed up
+            the exploration</item>
+
+        <item> HiPER Scientific Calculator is a popular calculator with more than 16 million downloads
+            and 100 000 five-star ratings. The calculator has up to 100 digits of significand and 9 digits of exponent.
+            It detects repeating decimals and numbers can be also entered as fractions or converted to fractions. </item>
+
+        <item> أحسب معدلك </item>
+
+
+    </string-array>
+    <string-array name="How_To_Install_Uri">
+        <item>https://www.youtube.com/watch?v=uZJju6oSIJA </item>
+        <item>https://octave-online.net/ </item>
+        <item>https://www.youtube.com/watch?v=ZLKPM0WtW3s&amp;feature=share&amp;fbclid=IwAR0M9Uf8oxf-zdvADr5CQp_pJlAxRgNyFb6_q8DSfAz_MH-BqAWWcdUbQeA</item>
+        <item>https://drive.google.com/file/d/1WMhmpcJbpcr7ZMM21Wse0IB1I0KoNSqS/view?usp=sharing</item>
+        <item>https://www.youtube.com/watch?v=5f2Wind4bbU </item>
+        <item>http://higheredbcs.wiley.com/legacy/college/koretsky/0471385867/thermosolver/thermosolver.exe</item>
+        <item>https://docs.google.com/document/d/1vu_GuhPmvADWUuFP4WzN9fyXSgWdOGWJ5cWr_cXgeMk/edit?usp=sharing</item>
+        <item>http://www.flycarpet.net/en/PsyOnline</item>
+        <item> https://en.softonic.com/download/minitab/windows/post-download</item>
+        <item>https://refprop-mini.software.informer.com/download/#downloading</item>
+        <item>https://www.youtube.com/watch?v=vLnPwxZdW4Y</item>
+        <item>https://drive.google.com/file/d/1SPwUDnlBQTDfz4ixAHa-rsGVW2OpsAnK/view?usp=sharing </item>
+        <item>https://www.edx.org/ </item>
+        <item>https://www.unitconverters.net/ </item>
+        <item>https://ar.symbolab.com/ </item>
+        <item>https://www.desmos.com/calculator/2rnqgoa6a4 </item>
+        <item>https://www.slader.com/ </item>
+        <item>https://www.youtube.com/watch?v=QSoQhEMQTo0 </item>
+        <item>https://www.desmos.com/scientific </item>
+        <item>https://play.google.com/store/apps/details?id=com.khaledamer.ju</item>
+
+
+    </string-array>
+
+    <string-array name="Download_for_Windows_Uri">
+        <item>https://ia803104.us.archive.org/26/it... </item>
+        <item>https://octave-online.net/ </item>
+        <item>https://drive.google.com/drive/folder...</item>
+        <item>https://drive.google.com/file/d/1cuLFOdgUlwH0CdEI1Ms7kAIlg1xeL30A/view?usp=sharing</item>
+        <item>https://sourceforge.net/projects/dwsim/files/latest/download </item>
+        <item>http://higheredbcs.wiley.com/legacy/college/koretsky/0471385867/thermosolver/thermosolver.exe</item>
+        <item>https://drive.google.com/file/d/1n_c5tDVjnaZZxPXUzxfuCQCF5tn4RVLW/view?usp=sharing</item>
+        <item>http://www.flycarpet.net/en/DownAM</item>
+        <item> https://en.softonic.com/download/minitab/windows/post-download</item>
+        <item>https://refprop-mini.software.informer.com/download/#downloading</item>
+        <item>https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe</item>
+        <item>https://login.microsoftonline.com</item>
+        <item> https://www.edx.org/</item>
+        <item>https://www.microsoft.com/en-us/p/unit-conversion/9wzdncrfj0pr#activetab=pivot:overviewtab</item>
+        <item>https://ar.symbolab.com/ </item>
+        <item>https://www.desmos.com/calculator/2rnqgoa6a4 </item>
+        <item>https://www.slader.com/ </item>
+        <item> https://gephi.org/users/download/ </item>
+        <item>https://www.desmos.com/scientific </item>
+        <item>https://play.google.com/store/apps/details?id=com.khaledamer.ju</item>
+    </string-array>
+
+    <string-array name="Download_for_Mobile_Uri">
+        <item>https://play.google.com/store/apps/details?id=com.mathworks.matlabmobile&amp;hl=en </item>
+        <item>https://play.google.com/store/apps/details?id=com.mathworks.matlabmobile&amp;hl=en</item>
+        <item>n</item>
+        <item>n</item>
+        <item>https://play.google.com/store/apps/details?id=com.danielmedeiros.dwsim_simulator</item>
+        <item>https://play.google.com/store/apps/details?id=com.khaledamer.test</item>
+        <item>https://play.google.com/store/apps/details?id=com.autodesk.autocadws</item>
+        <item>n</item>
+        <item> https://play.google.com/store/apps/details?id=analystat.petersabry.analystat</item>
+        <item>n</item>
+        <item>https://play.google.com/store/apps/details?id=com.kvassyu.coding.cpp</item>
+        <item> https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&amp;hl=en</item>
+        <item> https://play.google.com/store/apps/details?id=org.edx.mobile&amp;hl=en_US</item>
+        <item>  https://play.google.com/store/apps/details?id=kr.sira.unit&amp;hl=en</item>
+        <item>  https://play.google.com/store/apps/details?id=com.devsense.symbolab&amp;hl=en</item>
+        <item>  https://play.google.com/store/apps/details?id=com.desmos.calculator&amp;hl=enl=en</item>
+        <item> https://play.google.com/store/apps/details?id=com.slader.slader&amp;hl=en</item>
+        <item>https://play.google.com/store/apps/details?id=com.vilaris.graphynxlite&amp;hl=en</item>
+        <item> https://play.google.com/store/apps/details?id=cz.hipercalc&amp;hl=en </item>
+        <item>https://play.google.com/store/apps/details?id=com.khaledamer.ju</item>
+
+    </string-array>
+
+
+    <string-array name="Social_Media">
+        <item> Madar </item>
+        <item>Cooperative </item>
+        <item>Chemical Engineering Department</item>
+        <item>UJ Department of Chemical Engineering / Official Group</item>
+        <item>Chemical Engineering</item>
+        <item>Chemical Engineering Blog</item>
+        <item>Chemical engineering PDF</item>
+        <item>Analytical Chemistry</item>
+        <item>Organic Chemistry</item>
+        <item>Eleaning Ju</item>
+        <item>الصفحة الرسمية / الجامعة الاردنية</item>
+        <item>عمادة شؤون الطلبة / الجامعة الأردنية</item>
+        <item>الصفحة الرسمية للتسجيل / الجامعة الاردنية</item>
+        <item>كلية الهندسة - الجامعة الأردنية</item>
+
+
+
+
+
+    </string-array>
+    <string-array name="Social_Media_Uri">
+        <item> https://www.facebook.com/groups/madar.chemeng/ </item>
+        <item>https://www.facebook.com/Cooperative.Chemical.Engineering/ </item>
+        <item>https://www.facebook.com/groups/791005071280424/</item>
+        <item>https://www.facebook.com/groups/370493123065712/?ref=br_rs</item>
+        <item>https://www.facebook.com/groups/ChemicalEngineeringway/</item>
+        <item>https://www.facebook.com/ChemicalEngineeringBlog/</item>
+        <item>https://www.facebook.com/groups/366225977253350/?ref=br_rs</item>
+        <item>https://www.facebook.com/groups/analytical.AST/</item>
+        <item>https://www.facebook.com/groups/AS.organic/</item>
+        <item>https://www.facebook.com/groups/ElearningJU/</item>
+        <item> https://www.facebook.com/ujnews/</item>
+        <item>https://www.facebook.com/StudentAffairsJU/</item>
+        <item>https://www.facebook.com/groups/221846044632432/</item>
+        <item>https://www.facebook.com/groups/165040537495749/</item>
+
+
+
+    </string-array>
+
+    //************************************************************************
+    //************************************************************************
+    //************************************************************************
+    //***************************************************************************Youtu5be
+
+    <string-array name="Youtube">
+        <item>Calculus 1 </item>
+        <item>Calculus 2 </item>
+        <item>Calculus 3 </item>
+        <item>Analytical Chemistry  </item>
+        <item>Organic Chemistry  </item>
+        <item>Physics 1 </item>
+        <item>Physics 2 </item>
+        <item>Mathematical </item>
+        <item>Statistics </item>
+        <item>Fluid </item>
+        <item>Heat Transfer </item>
+        <item>LearnChemE </item>
+    </string-array>
+
+    <string-array name="Youtube_Uri">
+        <item>Not</item>
+        <item>Not</item>
+        <item>Not</item>
+        <item>https://www.youtube.com/watch?v=2q4vSKwaBtw&amp;list=PLD90B24578D0756F9 </item>
+        <item>Not </item>
+        <item>Not </item>
+        <item>Not </item>
+        <item>https://www.youtube.com/watch?v=-_POEWfygmU&amp;list=PL96AE8D9C68FEB902</item>
+        <item>https://www.youtube.com/watch?v=uhxtUt_-GyM&amp;list=PL1328115D3D8A2566 </item>
+        <item>https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34</item>
+        <item>https://www.youtube.com/watch?v=TWTQx3W-2k8&amp;list=PLZOZfX_TaWAE6nTX50dJl0Jia8iQTIhrG </item>
+        <item>https://www.youtube.com/user/LearnChemE</item>
+    </string-array>
+
+    <string-array name="Calculus_I_Youtube">
+        <item>Ahmed Assaf Videos </item>
+        <item>Ibrahem Okkeh Videos </item>
+        <item>Professor Leonard Videos </item>
+        <item>Calculus 1 Channel </item>
+    </string-array>
+
+    <string-array name="Calculus_I_Youtube_Uri">
+        <item>https://www.youtube.com/watch?v=4zarpJDfbg4&amp;amp;list=PL4-jGjRU9rfBcHxZtxhYtxcscmxEFGkN2 </item>
+        <item>https://www.youtube.com/watch?v=JCm3rzPf0Wg&amp;list=PLVgrGgkWLpZYgj7_o8nQCdf7TFwb33ZH_ </item>
+        <item>https://www.youtube.com/watch?v=fYyARMqiaag&amp;list=PLF797E961509B4EB5 </item>
+        <item>https://www.youtube.com/watch?v=rCxi-O79sVo&amp;list=PL0o_zxa4K1BVKErFko9je9IBZ0hXWXVtV  </item>
+    </string-array>
+
+
+    <string-array name="Calculus_II_Youtube">
+        <item>Ibrahem Okkeh Videos </item>
+        <item>Professor Leonard Videos </item>
+        <item>Calculus 2 Basics of Integration </item>
+        <item>Calculus 2 Introduction To Series  </item>
+    </string-array>
+
+    <string-array name="Calculus_II_Youtube_Uri">
+        <item>https://www.youtube.com/watch?v=AcMP7awOTR4&amp;list=PLVgrGgkWLpZa6DFlg51JAa6Lbj3_4fF7F </item>
+        <item>https://www.youtube.com/watch?v=JCm3rzPf0Wg&amp;list=PLVgrGgkWLpZYgj7_o8nQCdf7TFwb33ZH_ </item>
+        <item>https://www.youtube.com/watch?v=cCdj0uy0v80&amp;list=PL0o_zxa4K1BXDMB9u4YU7CGq1PDNIXn7r </item>
+        <item>https://www.youtube.com/watch?v=-wvF8OQSMx8  </item>
+    </string-array>
+
+    <string-array name="Calculus_III_Youtube">
+        <item>Krista King Videos </item>
+        <item>Professor Leonard Videos </item>
+        <item>Calculus 3 Vectors </item>
+        <item>Turbo Team  Videos </item>
+    </string-array>
+
+    <string-array name="Calculus_III_Youtube_Uri">
+        <item>https://www.youtube.com/watch?v=CxtgMNAQr8g&amp;list=PLJ8OrXpbC-BMdeuQfJDVRJ5DPMduSzVow </item>
+        <item>https://www.youtube.com/watch?v=tGVnBAHLApA&amp;list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7</item>
+        <item>https://www.youtube.com/watch?v=2_21erD-nBg&amp;t=11s </item>
+        <item>https://www.youtube.com/watch?v=L45YksgjzQU&amp;list=PLpsERNTNcD-5bj9I2mXOigYOHnRby-8kx  </item>
+    </string-array>
+
+    <string-array name="Organic_Youtube">
+        <item>Professor Dave Explains </item>
+        <item>Organic Channel </item>
+        <item>Khan Academy</item>
+
+    </string-array>
+
+    <string-array name="Organic_Youtube_Uri">
+        <item>https://www.youtube.com/watch?v=rHyIdxOzj9U&amp;list=PLybg94GvOJ9GtvOUYLW601u1Oiaoat2UF </item>
+        <item>https://www.youtube.com/watch?v=cAxJw_W05ZY&amp;list=PL0o_zxa4K1BXP7TUO7656wg0uF1xYnwgm</item>
+        <item>https://www.youtube.com/watch?v=pMoA65Dj-zk&amp;list=PL7305D1BC80498DA6 </item>
+
+    </string-array>
+
+    <string-array name="Physics_I_Youtube">
+        <item>Dr Ahmed Awad Videos </item>
+        <item>Physics Channel </item>
+
+    </string-array>
+
+    <string-array name="Physics_I_Youtube_Uri">
+        <item>https://drive.google.com/drive/folders/1tObqEf1CEh2MdkzAf-x8_82v5V4iO0Ig?usp=sharing </item>
+        <item>https://www.youtube.com/watch?v=-6IgkG5yZfo&amp;list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR</item>
+
+    </string-array>
+
+    <string-array name="Physics_II_Youtube">
+        <item>Dr Ahmed Awad Videos </item>
+        <item>Physics Channel </item>
+
+    </string-array>
+
+    <string-array name="Physics_II_Youtube_Uri">
+        <item>https://drive.google.com/drive/folders/1sqJYpXDtruPv6b4JrvyxN5CEcntDfZBP?usp=sharing</item>
+        <item>https://www.youtube.com/watch?v=j6sDLnNuFW0&amp;list=PL0o_zxa4K1BWrOyLXkHSZD4bw3yVKMwi8&amp;index=40</item>
+
+    </string-array>
+
+    <string-array name="Youtube_ar">
+        <item>التفاضل والتكامل 1 </item>
+        <item>التفاضل والتكامل 2   </item>
+        <item>التفاضل والتكامل 3 </item>
+        <item>كيمياء تحليلية </item>
+        <item>كيمياء عضوية  </item>
+        <item>فيزياء 1 </item>
+        <item>فيزياء 2 </item>
+        <item>الطرق الرياضية </item>
+        <item>إحصاء </item>
+        <item>ميكانيكا الموائع </item>
+        <item>انتقال الحرارة </item>
+        <item>  </item>
+    </string-array>
+//****************************************************************************************************
+    //****************************************************************************************************
+    //****************************************************************************************************
+    <string-array name="Other">
+        <item> Dr.Emails   </item>
+        <item>  الخطة الشجرية القديمة</item>
+        <item>الخطة الشجرية الحديثة </item>
+        <item>الخطة الاسترشادية </item>
+        <item>خريطة الجامعة الأردنية </item>
+
+
+
+    </string-array>
+
+    <string-array name="OtherUri">
+        <item>https://drive.google.com/file/d/128QcPGI4wp5mUfexzd2Roo-3LjNgu_Rq/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1qDPyCbEUN_KcLVNtUF2C1lRJwIsVsgae/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1n4tbndiEhrM8WJH5WAe8kC-591qmsBd6/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1SS66jntL-QqVyAskIw3W6EkIqzRwol4W/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1R0f0rLKbycPZmWR7n7BXF7nJWG2B8vmE/view?usp=sharing</item>
+
+
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Chemistry_I">
+        <item> General Chemistry The Essential Concepts – 6th Ed </item>
+        <item>Solution Manual  – 6th Ed </item>
+        <item> First Exam Past Papers  </item>
+        <item> Second Exam Past Papers </item>
+        <item> Final Exam Past Papers</item>
+    </string-array>
+    <string-array name="Chemistry_I_lab">
+        <item> Manual Lab Solution  </item>
+        <item> Mid Exam Past Papers   </item>
+        <item> Final Exam Past Papers  </item>
+        <item> Quizzes </item>
+    </string-array>
+
+    <string-array name="Chemistry_II">
+        <item> General Chemistry The Essential Concepts – 6th Ed  </item>
+        <item>Solution Manual  – 6th Ed </item>
+        <item> Hanan Hussein Summary  </item>
+        <item> First Exam Past Papers  </item>
+        <item>Second Exam Past Papers  </item>
+        <item> Final Exam Past Papers   </item>
+    </string-array>
+
+    <string-array name="Physics_II">
+        <item> Serway, Jewett – Physics for Scientists and Engineers with Modern Physics, 9th Ed  </item>
+        <item> Serway – Physics for Scientists 8th edition book  </item>
+        <item> Serway Physics 9th Ed Solution Manual  </item>
+        <item>First Exam Past Papers  </item>
+        <item> Second Exam Past Papers  </item>
+        <item> Final Exam Past Papers  </item>
+        <item> Suggested Questions </item>
+        <item> Suggested Problems Dr Hanan with solution   </item>
+        <item> Dr.Ahmad notes </item>
+        <item> Other Summaries </item>
+    </string-array>
+
+    <string-array name="Principles_I">
+        <item> Elementary Principles of Chemical Processes  </item>
+        <item> Manual Solution </item>
+        <item> Conversion Factors and Physical Properties  </item>
+        <item> Dr.Mohammed Al-Shannag Slides </item>
+        <item> Dr.Zayed Al-Hamamre Slides </item>
+    </string-array>
+      // Second Year ********************************************************************************************
+    <string-array name="Principles_II">
+        <item> Elementary Principles of Chemical Processes  </item>
+        <item> Manual Solution </item>
+        <item> Conversion Factors and Physical Properties  </item>
+        <item> Dr.Naim Al-Faqir Slides </item>
+        <item> Dr.Zayed Al-Hamamre Slides </item>
+    </string-array>
+
+    <string-array name="Fluid">
+        <item>Dr.Zayed Al-Hamamre Slides</item>
+        <item>Dr.Mohammed Al-Shannag Slides</item>
+        <item>Fluid-mechanics-noel-de-nevers-2nd ed</item>
+        <item>Manual-Solution-Fluid-mechanics-noel-de-nevers-3nd ed</item>
+        <item>Fluid Mechanics Fundamentals and Applications, 3rd edition, Cengel </item>
+        <item>Fluid Mechanics Fundamentals and Applications, 3rd edition,Cengel, Solutions Manual</item>
+        <item>Fundamentals of Fluid Mechanics Munson Young</item>
+        <item>Fundamentals of Fluid Mechanics Munson Young, Solution Manual</item>
+        <item>Robert L. Mott, Joseph A. Untener-Applied Fluid Mechanics-Pearson</item>
+        <item>Youtube Channel</item>
+
+    </string-array>
+
+    <string-array name="Calculus_III">
+        <item>Dr.Majd Notes</item>
+        <item>Calculus Stewart 7th	</item>
+        <item>Calculus Stewart 7th Solutions </item>
+        <item>First Exam Past Papers </item>
+        <item>Second Exam Past Papers  </item>
+        <item>Youtube Channel</item>
+        <item>Youtube Channel II</item>
+
+    </string-array>
+
+    <string-array name="Mathematical">
+        <item>Advanced Engineering Mathematics, 9th Edition</item>
+        <item>Solution Manual, 9th Edition</item>
+        <item>Advanced Engineering Mathematics, 10th Edition</item>
+        <item>Solution Manual, 10th Edition</item>
+        <item>Dr Naim Al-Faqeer notes 2020  </item>
+        <item>Dr Yousef Mubarak 2015 </item>
+        <item>Dr Yousef Mubarak 2017 </item>
+        <item>Dr.Naim Al-faqeer slides   </item>
+        <item>Past Papers  </item>
+        <item>Laplace Transform Table</item>
+        <item>Youtube Channel</item>
+        <item>Laplace Transform Videos</item>
+
+    </string-array>
+    <string-array name="Analytical_Chemistry">
+        <item>Skoog Fundamentals of Analytical Chemistry 9th</item>
+        <item>Solution Manual for Fundamentals of Analytical Chemistry 9th Ed</item>
+        <item>Dr Ahmad notes  </item>
+        <item>Dr.Ramia Notes  </item>
+        <item>First Exam Past Papers</item>
+        <item>Second Exam Past Papers</item>
+        <item>Final Exam Past Papers</item>
+        <item>Facebook Group </item>
+
+    </string-array>
+    <string-array name="Analytical_Chemistry_Lab">
+        <item>Reports</item>
+        <item>Summary</item>
+        <item>Mid Exam Past Papers </item>
+        <item>Quizzes  </item>
+        <item>Final Exam Past Papers  </item>
+        <item>Quizzes 2019</item>
+    </string-array>
+
+    <string-array name="Organic_Chemistry">
+        <item>Organic Chemistry – A Short Course 13th ed – D. Hart</item>
+        <item>Solution-Manual-Organic Chemistry – 13th ed – D. Hart</item>
+        <item>Dr.Kamal Notes </item>
+        <item>Dr.Moqdad Notes   </item>
+        <item>First Exam Past Papers </item>
+        <item>Second Exam Past Papers  </item>
+        <item>Final Exam Past Papers  </item>
+        <item>Reactions Summary </item>
+        <item>Facebook Group </item>
+
+    </string-array>
+    <string-array name="Organic_Chemistry_Lab">
+        <item>Reports </item>
+        <item>Mid Exams</item>
+        <item>Quizzes  </item>
+        <item>Summary </item>
+        <item>Facebook Group </item>
+
+    </string-array>
+    <string-array name="Electrical">
+        <item>Principles and Applications of Electrical Engineering 5th Edition </item>
+        <item>Solution Manual of Principles and Applications of Electrical </item>
+        <item>Dr.Ziad Al Khatib Slides  </item>
+        <item>Past Papers </item>
+
+    </string-array>
+//Third Year *************************************************************************************
+    <string-array name="Thermo_I">
+        <item>Thermodynamics An Engineering Approach 8th ed </item>
+        <item>Thermodynamics An Engineering Approach 7th ed </item>
+        <item>Thermodynamics An Engineering Approach 8th ed, Solution Manual  </item>
+        <item>Thermodynamics An Engineering Approach 7th ed, Solution Manual </item>
+        <item>Dr.Ali Matar Slides </item>
+        <item>Dr.Zayed Al-Hamamre Slides </item>
+        <item>Thermodynamics Property Tables And Charts </item>
+        <item>  Past Papers </item>
+
+    </string-array>
+    <string-array name="Thermo_II">
+        <item>Kevin-D.-Dahm-Donald-P.-Visco-Fundamentals-of-Chemical-Engineering-2014 </item>
+        <item>Introduction to Chemical Eng Thermodynamics, Smith 6th Ed </item>
+        <item>Introduction to Chemical Eng Thermodynamics, Smith 7th Ed  </item>
+        <item>Introduction to Chemical Eng Thermodynamics, Smith 6th Ed, Solution Manual  </item>
+        <item>Introduction to Chemical Eng Thermodynamics, Smith 7th Ed </item>
+        <item>Sandler, Chemical , Biochemical EngineeringThermodynamics, 4th edition </item>
+        <item>Physical and Chemical Equilibrium for Chemical Engineers </item>
+        <item>Dr.Zayed Al-Hamamre Slides </item>
+        <item>Dr.Ali Matar Slides </item>
+        <item>Past Papers </item>
+        <item> Dr.Ali Al-Matar videos </item>
+
+    </string-array>
+    <string-array name="Solid_Operation">
+        <item>Chemical Engineering, Volume 2, Fifth edition, Coulson and Richardson </item>
+        <item>Chemical Engineering, Volume 2, Fifth edition, Coulson and Richardson, Solution Manual  </item>
+        <item>Unit Operations of Particulate Solids Theory and Practice </item>
+        <item>Dr.Motasem Saidan Slides </item>
+        <item>Dr.Fawaz notes 2019-2020 </item>
+
+    </string-array>
+    <string-array name="Heat_Transfer">
+        <item>Fundamentals of Heat and Mass Transfer, 7th Edition	 </item>
+        <item>Fundamentals of Heat and Mass Transfer, 7th Edition, Manual Solution  </item>
+        <item>Fundamentals of Heat and Mass Transfer, 6th Edition </item>
+        <item>Heat and Mass Transfer, 5th Edition </item>
+        <item>Fundamentals of Heat and Mass Transfer, 6th Edition, Manual Solution </item>
+        <item>Dr.Zayed Al-Hamamre Slides </item>
+        <item>Dr.Khaled Al-Rawajfeh Slides</item>
+        <item>Dr.Yahia Khraisha Slides </item>
+
+
+    </string-array>
+
+    <string-array name="Numerical_Methods">
+        <item>Numerical Methods for Engineers, 7th Edition	 </item>
+        <item>Solution Manual, 5th Edition	 </item>
+        <item>Dr.Yousef Mubarak Notes 2017 </item>
+        <item>Dr.Naim Al-faqeer slides</item>
+        <item>Dr.Yousef slides</item>
+        <item>Past Paper </item>
+
+
+
+    </string-array>
+    <string-array name="Statistic">
+        <item>Applied Statistics and Probability for Engineers, 6th Edition	 </item>
+        <item>Manual Solution -Applied Statistics and Probability for Engineers, 6th Edition</item>
+        <item>Probability and Statistics, 8th Edition </item>
+        <item>Dr.Ali Matar Slides </item>
+        <item>Past Papers </item>
+
+
+
+
+    </string-array>
+    <string-array name="Environmental_Engineering">
+        <item>Introduction to Environmental Engineering, 3rd, Vesilind </item>
+        <item>Introduction to Environmental Engineering, 5th ed</item>
+        <item>Dr.Ahmed Abu-Yaghi Slides </item>
+        <item>Dr.Motasem Saidan Slides </item>
+        <item>Past Paper  </item>
+
+
+
+
+    </string-array>
+//******************************************************************************/Year4
+    <string-array name="Mass_Transfer">
+        <item>Transport Processes, Geankoplis – 3rd Ed	 </item>
+        <item>Mass-Transfer Operations 3rd Ed, Robert Treybal</item>
+        <item>Diffusion Mass Transfer in Fluid Systems 3rd Ed, Cussler</item>
+        <item>Separation Process Engineering. Includes Mass Transfer Analysis_ Third Edition</item>
+        <item>Solutions Manual Separation Process Engineering. Includes Mass Transfer Analysis_ Third Edition  </item>
+        <item>Seader Separation Process Principles 3rd </item>
+        <item>Fundamentals of Momentum, Heat, and Mass Transfer 5th edition </item>
+        <item>manual solution,Fundamentals of Momentum, Heat, and Mass Transfer 5th edition  </item>
+        <item>Dr.Zayed Al-Hamamre Slides </item>
+        <item>Dr.Khaled Rawajfeh notes 2019-2020 </item>
+
+    </string-array>
+    <string-array name="Rex_I">
+        <item>Elements of Chemical Rxn Eng 4th Ed – Fogler	 </item>
+        <item>Elements-of-Chemical-Rxn-Eng-4thEd-Fogler-Solution-Manual</item>
+        <item>Elements of Chemical Rxn Fogler 3rd Ed</item>
+        <item>Solution Manual, Elements of Chemical Rxn 3rd ed</item>
+        <item>Dr.Zayed Al-Hamamre Slides </item>
+        <item>Past Papers &amp; Quizzes</item>
+        <item>Rxn1 - Numerical Techniques &amp; Conversion Factors	</item>
+
+    </string-array>
+    <string-array name="Rex_II">
+        <item>Elements of Chemical Rxn Fogler 3rd Ed	 </item>
+        <item>Solutions Manual, Elements of Chemical Rxn 3rd ed</item>
+        <item>Levenspiel-Chemical-Reaction-Eng, 3rd Ed	</item>
+        <item>Soln Manual, Levenspiel-Chemical-Rxn-Eng, 3rd Ed</item>
+        <item>Elements of Chemical Rxn Eng 4th Ed – Fogler </item>
+        <item>Elements-of-Chemical-Rxn-Eng-4thEd-Fogler-Solution-Manual </item>
+        <item>Past Papers</item>
+        <item>Dr.Reyad Shawabkeh slides </item>
+
+    </string-array>
+
+    <string-array name="Control">
+        <item>Process Dynamics and Control, 3rd Edition	 </item>
+        <item>Process Dynamics and Control – 2nd Ed- Dale E. Seborg</item>
+        <item>Process Dynamics and Control Seborg (2nd) solution manual	</item>
+        <item>Dr.Mohammed Al-Shannag Slides</item>
+        <item>Dr.Deeb Abu-Fara Notes  </item>
+        <item>Past Paper </item>
+
+    </string-array>
+
+    <string-array name="Combined">
+        <item>Seader Separation Process Principles 3rd	 </item>
+        <item>Seader and Henleys Separation Process Principles, 2nd Ed</item>
+        <item>Unit Operations Of Chemical Engineering_ 5th Ed_ McCabe And Smith</item>
+        <item>Separation Process Principles 2neEd. Seader(Solutions Manual)	</item>
+        <item>Dr.Zayed slides 	 </item>
+    </string-array>
+
+    <string-array name="Process_Design">
+        <item>Analysis Synthesis and Design of Chemical Processes, Fourth Edition </item>
+        <item>Analysis Synthesis and Design of Chemical Processes, Third Edition</item>
+        <item> Solutions Manual,Analysis Synthesis and Design of Chemical Processes, Third Edition </item>
+        <item>Dr.Reayd Al-Shawabkeh Notes 2017</item>
+        <item>Heuristics Tables - Turton Book 4th Ed	</item>
+    </string-array>
+
+    <string-array name="Process_Safety_Engineering">
+        <item>Chemical Process Safety, Third Edition- Sanders </item>
+        <item>Chemical Process Safety ,3rd ed – Crowl and Louvar</item>
+        <item>Manual Solution -Chemical Process Safety ,3rd ed – Crowl and Louvar</item>
+        <item> Chemical Process Safety ,2ND ED – Crowl and Louvar </item>
+        <item>Dr.Motasem Saidan Slides</item>
+        <item>Dr.Ali Matar Slides</item>
+        <item>Dr.Fawaz Slides</item>
+
+    </string-array>
+    <string-array name="Physical_Chemistry">
+        <item>Physical Chemistry, 9th Edition, Atkins</item>
+        <item>Physical Chemistry In Brief</item>
+        <item> Physical Chemistry 9th Edition, Atkins, Manual Solution </item>
+        <item>Dr.Ahmad Abu-Yaghi Slides</item>
+
+    </string-array>
+    //******************************************** 5th Year
+
+    <string-array name="Local_Chemical_Process">
+        <item>Handbook of Chemical Technology and Pollution Control, Third Edition</item>
+        <item>Shreve Chemical Process Industries, Fifth Edition</item>
+        <item>Eng.Arwa slides</item>
+
+    </string-array>
+    <string-array name="Process_Dynamics_and_Control">
+        <item>Process Dynamics and Control, 3rd Edition	 </item>
+        <item>Process Dynamics and Control – 2nd Ed- Dale E. Seborg</item>
+        <item>Process Dynamics and Control Seborg (2nd) solution manual	</item>
+        <item>Dr.Mohammed Al-Shannag Slides</item>
+        <item>Dr.Deeb Abu-Fara Notes  </item>
+        <item>Past Paper </item>
+    </string-array>
+
+    <string-array name="Chemical_Plant_Design">
+        <item>Analysis Synthesis and Design of Chemical Processes, Fourth Edition </item>
+        <item>Analysis Synthesis and Design of Chemical Processes, Third Edition</item>
+        <item> Solutions Manual,Analysis Synthesis and Design of Chemical Processes, Third Edition </item>
+        <item>Plant Design and Economics For Chemical Engineers Timmerhaus</item>
+
+    </string-array>
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    //************************************************************************************************************************ ِ
+    //Labs
+
+    <string-array name="Lab_I">
+        <item>Manual </item>
+        <item>Past paper</item>
+        <item>Lab 1 Solutions</item>
+    </string-array>
+
+    <string-array name="Lab_II">
+        <item>Manual </item>
+        <item>Reports </item>
+        <item>Past Paper </item>
+    </string-array>
+
+    <string-array name="Lab_III">
+        <item>Manual </item>
+        <item> Reports  </item>
+
+    </string-array>
+
+    <string-array name="Lab_IV">
+        <item>Manual </item>
+    </string-array>
+
+    <string-array name="Matlab">
+        <item>Introduciton to MATLAB </item>
+        <item>Dr.Linda Slides</item>
+        <item>Final Exam </item>
+
+    </string-array>
+
+
+
+
+
+//************************************************************************************************************************
+    //************************************************************************************************************************
+    //************************************************************************************************************************ ِ
+    //A5tyary
+    <string-array name="Management">
+        <item>Dr.Ali Matar Slides </item>
+        <item>Dr.Deeb Abu-Fara Slides</item>
+    </string-array>
+
+    <string-array name="Air_Pollution">
+        <item>Dr.Motasem Saidan Slides  </item>
+        <item>Dr.Ahmad Abu Yaghi Slides</item>
+    </string-array>
+
+    <string-array name="Quality_Control">
+        <item>Introduction to Statistical Quality Control, 6th Ed  </item>
+        <item>Fundamentals of QC and Improvement, 3rd Ed, Mitra</item>
+        <item>Dr.Ali Matar Slides  </item>
+        <item>Summary of Quality Management</item>
+        <item>Past Papers  </item>
+
+    </string-array>
+    <string-array name="Special_Topic">
+        <item>Pharmaceutical Process Engineering 2nd ed </item>
+        <item>Design of Controlled Release Drug Delivery Systems (McGraw Hill Chemical Engineering)-Xiaolin</item>
+        <item>Dr.Linda Al-Hmoud Slides  </item>
+        <item>Dr.Ahmad Abu Yaghi Slides</item>
+        <item>chemical engineering in the pharmaceutical industry </item>
+
+    </string-array>
+
+    <string-array name="Materials_Science">
+        <item>Materials Science and engineering an introduction 9th edition </item>
+        <item>Materials Science and Engineering by Callister 8th Ed</item>
+        <item>Callister – Materials Science and Engineering 7th Ed </item>
+        <item>Materials-Science-Engineering-Callister-7th-Solution-Manual</item>
+        <item>Materials-Science-Engineering-Callister-8th-Solution-Manual </item>
+        <item>Dr.Yousef Mubarak Slides</item>
+
+
+    </string-array>
+    <string-array name="Separation">
+        <item>Slides </item>
+    </string-array>
+
+    <string-array name="Solid_Wast_Management">
+        <item>Handbook of SWM, 2nd ed – F.Kreith </item>
+        <item> Solid Waste Engineering , Second Edition – Worrell and Vesilind </item>
+        <item> Dr.Motasem Saidan Slides </item>
+        <item> SWM All Tables &amp; Eqns - Mid Exam - CEC </item>
+
+    </string-array>
+
+    <string-array name="BioChemical_Engineering">
+        <item>Fundamentals_of_Biochemical_Engineering </item>
+        <item> Bioprocess Engineering- (2nd Edition)- Shuler and Kargi	 </item>
+        <item> Dr.Linda Al-Hmoud Slides </item>
+
+    </string-array>
+
+    <string-array name="Corrosion_Engineering">
+        <item>Principles of Corrosion Engineering and Corrosion Control </item>
+        <item> Dr.Ahmed Abu-Yaghi Slides 	 </item>
+        <item> Eng Arwa notes 2019 </item>
+
+    </string-array>
+
+    <string-array name="Process_Optimization">
+        <item>Optimization of Chemical Processes, 2nd Ed </item>
+        <item> Optimization of Chemical Processes,solution </item>
+
+
+    </string-array>
+
+    <string-array name="Water_Desalination">
+        <item>Seawater Desalination_Springe </item>
+        <item>Desalination.Water.from.Water </item>
+
+    </string-array>
+
+    <string-array name="Wast_Water_Treatment">
+        <item>Water-Wastewater-Eng-Mak-Davis</item>
+        <item>Dr.Ahmed Abu-Yaghi Slides  </item>
+
+    </string-array>
+
+    <string-array name="Metal_Extraction">
+        <item>Dr.Yousef Mubarak Slides</item>
+
+    </string-array>
+    <string-array name="Polymer_Plastic_Engineering">
+        <item>Polymer Science and Technology</item>
+        <item>Fundamentals of Polymer Engineering </item>
+        <item>Plastics Engineering, third edition, Crawford</item>
+        <item>Dr.Yousef Mubarak Slides </item>
+        <item>Dr.Motasem Saidan Slides</item>
+
+
+    </string-array>
+
+    <string-array name="Process_Analysis_Simulation">
+        <item>Process Dynamics Modeling Analysis and Simulation, Wayne Bequette</item>
+
+    </string-array>
+
+</resources>

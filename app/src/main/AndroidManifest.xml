@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication32">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="CE-JU"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6764160827613754~9279633578" />
+
+        <activity android:name=".Contacte_Me" />
+        <activity android:name=".other" />
+        <activity android:name=".Home" />
+        <activity android:name=".ThermoSolver" />
+        <activity android:name=".Equations_Of_State" />
+        <activity android:name=".Fugacity_Calculation" />
+        <activity android:name=".Bubble_Dew" />
+        <activity android:name=".UnitConverter" />
+        <activity android:name=".A7sbM3dlk1" />
+        <activity android:name=".YoutubeFun" />
+        <activity android:name=".SoftwareFun" />
+        <activity android:name=".Softwares" />
+        <activity android:name=".splash_screen" />
+        <activity android:name=".T599_Mwad" />
+        <activity android:name=".Mwaad" />
+        <activity android:name=".Mta_Klia_Ejbary" />
+        <activity
+            android:name=".NumiricalCalc"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

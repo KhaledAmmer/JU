@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="4dp"
+    android:textAlignment="center"
+    android:backgroundTint="#8B80B5"
+    app:cardCornerRadius="30dp"
+    android:layout_marginTop="6dp"
+    android:layoutDirection="rtl"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="0dp"
+            android:fontFamily="@font/aclonica"
+            android:text="Line 1"
+
+            android:textAlignment="center"
+            android:textColor="#1B1819"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="4dp"
+            android:text="Line 2"
+            android:textAlignment="center"
+            android:textColor="#F3ECEC"
+            android:textSize="17sp" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Chemistry_I_Uri">
+        <item> https://drive.google.com/file/d/1peboqFaFBm9Njt6aOvmFHuUhXWenrWfd/view?usp=sharing </item>
+        <item>  https://drive.google.com/drive/folders/1Xo4U53vdCg-ABdSIi5fxfagNnf2FpwXy?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1EdUzB-mhUdAa0p_PQtoCItm7cqJtYIdv?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1r9Km2UmWiEOqOuDg5X-veIFkSHLlZsae?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1ZIqehtckIEeNQBcJIAO1BKJG6vHrc-3I/view?usp=sharing</item>
+    </string-array>
+    <string-array name="Chemistry_I_Lab_Uri">
+        <item> https://drive.google.com/file/d/1Rbh32THxVk5gpTTvU8JrDMOW8c7VfxsU/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1JrQKgGe4Avtq8VQ6fYOgAA4vqMMgO2Sk?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1cr_5glbhxy0Pa4D5MRX8J5SDsB3A3uXN/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1vHlRqvL3tYTFrj3sKwk9nZPXPEeTxJo0?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Chemistry_II_Uri">
+        <item> https://drive.google.com/file/d/1peboqFaFBm9Njt6aOvmFHuUhXWenrWfd/view?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1Xo4U53vdCg-ABdSIi5fxfagNnf2FpwXy?usp=sharing </item>
+        <item> https://drive.google.com/file/d/15uzY5DsTB5q8oevhFg7-fISV1D_gDR5p/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1vez6Cb0Ipq9a1iDZqKtvmpDHGUY7MS_J?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/10bpr6sSOwkA4vG2h0vj-1hThF1jFYUku?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1D1FQIPJ_NN1Z3zcXnkKuNCNsnAGGF0bh?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Physics_II_Uri">
+        <item> https://drive.google.com/file/d/1blJuERCGD5lxuLZLuagj8g-DVlfnc_N0/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1CuA4a5Wm0YIfs4_s91t5aFlTSfV0_m-4/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1AZPs8z713l3HCOZ_HNxPcTd1ahyLN4Vl/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1A6ZN-6p2-6YdoE-1cW4PH2Y9P7tqCBvO?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1Uz-CqE6AcBJ7Y6h1nmOcDXccyTrXwOFt?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1WuYof-h8h0ImrbHesYePP7D6wVL_I06Q?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1gJp5h2ror8bJ6fjYtNJE1by2oSXB9PAM?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1uZAqjQwCKLS-PShDo9IvmQVWq6RnRJ9E?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1VShsCD_6H7h_WhrGNTzNUJ7UibiDl463?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1J40Jrw-KcT-xmNhrs0HxGnGF_tPywlO4?usp=sharing </item>
+
+
+    </string-array>
+
+
+    <string-array name="Principle_I_Uri">
+        <item>https://drive.google.com/file/d/1Zt4WzkqwcNP1EBGg82q1aBEbCgR4fMHn/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1dSzS85cGHqSvXs-WDtHeN5a3HknqE72D/view?usp=sharing </item>
+        <item> https://drive.google.com/file/d/1ePZCWC7zZdIp1ZcySuJTucdCE-v4jlD4/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1rITBbee0soiEbF_7UCXpZVQuD5N3Zonh?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1VHdU5WTDKRERUcZz0Ekd6wOETYqFXHHu?usp=sharing</item>
+
+
+    </string-array>
+
+    <string-array name="Principle_II_Uri">
+        <item>https://drive.google.com/file/d/1Zt4WzkqwcNP1EBGg82q1aBEbCgR4fMHn/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1dSzS85cGHqSvXs-WDtHeN5a3HknqE72D/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1ePZCWC7zZdIp1ZcySuJTucdCE-v4jlD4/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1WMEzLCMcHrBX6JusqO9pHoe8eBYiDtML?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1qK_tPCvbQH-rQ5ycYc_OdGx9BoXdkElK?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Fluid_Uri">
+        <item>https://drive.google.com/drive/folders/1qD7mw86TIE0-mYA2ukmAmPBy37mWPTdy?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1iIQYT-GQ31np6RviW3qieI7WjMOd9-yy?usp=sharing</item>
+        <item>https://drive.google.com/file/d/11FKTgWW9Cbb5sCAhkkXDFAdgNXGRTLj4/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1RoWdDwVPtWn1WXvyKEuxOfISSB3YUsGX/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1XEpQyGjfNzB7lLsmACTDljX2vUkr6bxz/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1uNinN2qLg2c1c9LyGVHYJTOEwp9OYMmZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/11AbC01TmRzyYDobaQ2EMnBXxGJ7P498B/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1nxtOu8DVYka4E5ZEYHlW95-k_Xe50jqE?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1yOUaSPDxSDf2ZmYnvH1svI67SRWaNQ1B/view?usp=sharing</item>
+        <item>https://www.youtube.com/watch?v=clVwKynHpB0</item>
+
+    </string-array>
+
+
+    <string-array name="Calculus_III_Uri">
+
+        <item> https://drive.google.com/file/d/1AL4VhWj24N3ECWqL1IWbVmv7VkzvZmEA/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1Uduaxr_YgbOFPjr6ncC8_KXHqFRZLM2H/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1Uw5g4NSm9F-r17KKi2cbJZMoi-Dv7YQP/view?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1uRPb73kQjeaIfCT-ch0UtWmmdrCkq_5-?usp=sharing</item>
+        <item> https://drive.google.com/drive/folders/1MdRm6Rys5gVnbxjtG2W4yYdkge9uLfcx?usp=sharing</item>
+        <item> https://www.youtube.com/watch?v=2_21erD-nBg</item>
+        <item> https://www.youtube.com/watch?v=tGVnBAHLApA</item>
+
+    </string-array>
+
+    <string-array name="Mathematical_Uri">
+        <item>  https://drive.google.com/file/d/1JQNDOV1VtQKAf48VVu_CwwLnjpp8rOa3/view?usp=sharing</item>
+        <item>  https://drive.google.com/file/d/1uFN1TN-B9reeEy5ybOnSLU6yffF5STC9/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/15HS5ITWk9_ATXh66tLeELyO-M42YzPBB/view?usp=sharing</item>
+        <item>  https://www.slader.com/textbook/9780470458365-advanced-engineering-mathematics-10th-edition/</item>
+        <item> https://drive.google.com/file/d/1h91DndeUPmx-mIHtU4AkqlXD6_zbS8zC/view</item>
+        <item> https://drive.google.com/file/d/1QF9bjPGJaOsQgQnZvKZG_qeeZM4HoT9W/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1ufd-MvDXFfJ_MdD67SLpnB1lI7zsDRE7/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1W4q3EuxlPDDknf5LCNnVPN98I5q8YOSl?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1X_hfFjnVox7vm_V8yqsiw3bxP6Hkil6Q</item>
+        <item>https://drive.google.com/drive/folders/1W4q3EuxlPDDknf5LCNnVPN98I5q8YOSl?usp=sharing</item>
+        <item>https://www.youtube.com/watch?v=uULl-VUuv1s</item>
+        <item>https://www.youtube.com/watch?v=OiNh2DswFt4</item>
+
+    </string-array>
+
+    <string-array name="Analytical_Chemistry_Uri">
+        <item>https://drive.google.com/file/d/1ybX_cu4m7mNXU54lmE9hSa3Mnxr4caQu/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1E6ohPzU0XIa1BV-EKlBG6QrdFR1m3z6w/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1QgNX03sn27Ldcqm19U5i9vGMXrDBmt5k/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/0B1QDoVfRuDpMY1hzM1NkZW5SSkU/view  </item>
+        <item>https://drive.google.com/drive/folders/1NrnpxPudI4OqSDHQulCR-L20XUQEK0r3?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1cI4Egu3pF22Rw9AUMF4kdb5UHKrocH9w?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1LSwpdULFbbfopoUifQLN3BgXxtE09Pfy/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/analytical.AST/</item>
+    </string-array>
+    <string-array name="Analytical_Chemistry_Lab_Uri">
+        <item>https://drive.google.com/drive/folders/0B1QDoVfRuDpMX0VsSHVTWFktR3c</item>
+        <item>https://drive.google.com/drive/folders/0B1QDoVfRuDpMeDlueWRsZFAxMUk</item>
+        <item>https://drive.google.com/open?id=0B1QDoVfRuDpMNlFobUtjbEdWZ1U </item>
+        <item>https://drive.google.com/open?id=0B1QDoVfRuDpMU2NWNFdqRU1Sc1U </item>
+        <item>https://drive.google.com/open?id=0B1QDoVfRuDpMWFM5RHczMjBta3c </item>
+        <item>https://drive.google.com/file/d/10GNNsdpe0Z82n7BKskwOMnd4FYV035U7/view?usp=sharing </item>
+
+
+    </string-array>
+
+    <string-array name="Organic_Chemistry_Uri">
+        <item>https://drive.google.com/file/d/10cHODFq_av4E3XKvpTI-zILT9k9G0qJN/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1zrS5KltaH-tgLMfub90uApPQZ97FGPps?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1vEsQFG1c7xYLkKhSqbg5fIDknqpJz3gn/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1imEJcPlhWeQOgAaIPaxtCemGuCqN0x9a/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1gbKZIriWAwjXPCxqC-ys30yDram7O1Jz?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1en4GyPHoMoEaYLu2TYnoqTPFAEA6Yal6?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1GI0mHBJPqWTEVEdPqigOQtKqNHbjzz3U?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Z1vC_EprTriXTkUTzFklkx3r-hCSlZY8/view?usp=sharing</item>
+        <item>https://www.facebook.com/groups/AS.organic/permalink/291835241279877/?hc_location=ufi </item>
+
+
+    </string-array>
+    <string-array name="Organic_Chemistry_Lab_Uri">
+        <item>https://drive.google.com/drive/folders/0B1QDoVfRuDpMdFZPdjRBeUpYUWs</item>
+        <item>https://drive.google.com/drive/folders/0B1QDoVfRuDpMcUVXWk1Ea3EyZ2c</item>
+        <item>https://drive.google.com/drive/folders/0B1QDoVfRuDpMNkN6S2Y4Qncxbk0  </item>
+        <item>https://drive.google.com/drive/folders/13Px38BJrSajVy7Z8IbWBQN93kENF5nY4 </item>
+        <item>https://www.facebook.com/groups/AS.organic/permalink/291835241279877/?hc_location=ufi </item>
+    </string-array>
+
+    <string-array name="Electrical_Uri">
+        <item>https://drive.google.com/file/d/1lPXaB00kPeyUT4a704OApto6F0Te5tlG/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1R-FpRShB4gZqaMP3r0qzqtLxXqN6NBSh?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1VeFNfaDzeH9EV2SrIV9q6P_fgNUtEajk?usp=sharing  </item>
+        <item>https://drive.google.com/drive/folders/1PJoyyu0YF_6GB3FBSA4eBfRhZix2b1G3?usp=sharing </item>
+    </string-array>
+
+
+    //Third Year *******************************************************************************
+    <string-array name="Thermo_I_Uri">
+        <item>https://drive.google.com/file/d/1cAQh3-m8OKrTBL3QjC7xM-UPdQ4shS3j/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/1zfNM_AptfTwDk-U3KgEa3FitKfDMu-1H/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1uB9sZGPLz_bDV8ZsO2wxtNdzhd-gXgAt/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1XBvBtXW8Pyu_F6jjTFb6IAxVkvMtJ5Je?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1mTe-vfLl-tf5dJ5jloe05vdv4dI8qhZs?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1b--Akz6nd3H8hzqUh5FI7V0CZvV4v9ai?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1FK7WamyZRSW_vD0t2vIMt1z5iN-WrQ_a?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1LAUwi4idTA2volQNOCdBQ-aFPn0vxKsx?usp=sharing</item>
+
+    </string-array>
+    <string-array name="Thermo_II_Uri">
+        <item>https://drive.google.com/file/d/1yJSiODA1xT1-JWk9XAN9d9hbsuUcgKVa/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/11BDbGXal5GiWJCwE6xXdPNnnhb2KMIPD/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1wWnFJeVRz-NJ2cBhR1OB3qolf3X4kDsC/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1OGGdn8-lrA2CkH0oA3qY1dAhfP336Kcm/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1AG20IGGdXggrDtjj3Vo5KZzXjcevBaH5/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1RtzrPwKNG88Awk8ewksc2JgVKYyI2HS_/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1vzn3H7P6iT4NkpR_OuuHM4_ZdM0t6pdc/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/11A9zAGDzkAmOVuNRbo85aFlO9UqvPRnJ?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1X3COdlQaWTbi0FjYufjA7tnvIq-TyUHB?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/12QR45E2Q86I5bGXBrVFieHbYFbQqP7dN?usp=sharing</item>
+        <item> https://www.youtube.com/channel/UC2aLJ_dDpSM-pQjuOh1R9cw/videos</item>
+
+    </string-array>
+
+
+    <string-array name="Solid_Operation_Uri">
+        <item>https://drive.google.com/file/d/1tG8zLaR8jVwVY0HO7NN9LmFAKuz4Ggif/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1YCl5qOMpSiid3pXtjmmjhaeCTYI1qQoc/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/12XFJMCGMDv9PU5YweCf0OCPw5t-4CWzA/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/15WI_xQYC9TyilxsXJKZ3qoqMO8zhjdjX?usp=sharing </item>
+        <item>https://drive.google.com/file/d/19uShp5qXyZnaHoL4f79Wvv_hndAJRpHA/view?usp=sharing </item>
+
+
+    </string-array>
+
+    <string-array name="Heat_Transfer_Uri">
+        <item>https://drive.google.com/file/d/0B1QDoVfRuDpMZ0k5VWNlZ2N5d1U/view</item>
+        <item>https://drive.google.com/file/d/1d6u5WeUZFO73UjqC-msCkzq31QXPDs33/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1YYq9XIeLVjQAGKorjPXeG5ttVaNuchBw/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1HY31GkQ1Ac6gIKfUO0ky47-ZpSSnco2j/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1kafzrK8Xrt1kSXva0mVoVpAHYxV27fYI/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/11jCZXr1aJrZVi0R74EOHv0MEkYSGs-8k?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1abAWz9uRNyaEY1Q-q-nSEx4sxdwKiKKI?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/14o0QlVOifoRhfVePEhglO_xtZEmYx972?usp=sharing </item>
+
+
+    </string-array>
+    <string-array name="Numerical_Methods_Uri">
+        <item>https://drive.google.com/file/d/1FP_w4dS0kUFClm7N-XCXrIzhmHcWswwI/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1IfM7waWf2NQo79ESHOP_TJb3H977gCi-/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1QPxMES4uVLU9oAp4xgfowO-2cI6NNeo5/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1WrDhvaE39wTwjX5Rh_QNVM0PcN2o6o86?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1eq25zqhpzR_UaN-widFRRuCp6HTcu73Q/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1MIDZToW-qRtgsM7QWdWdIuyLViqWXrTQ/view?usp=sharing </item>
+
+
+    </string-array>
+    <string-array name="Statistic_Uri">
+        <item>https://drive.google.com/file/d/1rOuj8ZKwsci0-GUs9RTO3T6Ha-ys4l3u/view?usp=sharing </item>
+        <item>https://www.slader.com/textbook/9781118539712-applied-statistics-and-probability-for-engineers-6th-edition/</item>
+        <item>https://drive.google.com/file/d/1tSo0rr0jfyDwbWvO_8HWmO2p-EmoRPXb/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1WibFL5ZYdPRkey3ee74n0hbM5BvELfW4?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1kLWpNOfyEJVsy5eK0MW8J8pL8p1syYkw?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Environmental_Engineering_Uri">
+        <item>https://drive.google.com/file/d/1fOiIl3IBczZLZMErTG4a7QnTIxPDQe2Z/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1xWGUs0d8rRzQKhd-oO1jOTPi-pkCd2CF/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1Dg9Qj8vNKiANar4M4ybFAzXcnxXA3jI2?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1bJ0RDNlYcJLGLYU3s8VovKSnP_x-FQQl?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1AWm0ThU6QzWntuTLBKD-5lSG6a0S76A4?usp=sharing </item>
+    </string-array>
+    // ***************************************************************************** Year 4
+    <string-array name="Mass_Transfer_Uri">
+        <item>https://drive.google.com/file/d/1NQG4KeGWFmpPqDpsSCOnzOj1SyTss383/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1Ax5mCu4BzfI_Rvb8SspxTP3gK0J2I0uk/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1kvw5ddmLmBRAAi8x1Pu0yhSrzO7aYszx/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1d6P9iv20q2leRjkO_dzJe7xGnWR1-K9Y/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1qA3BXQdcxuCdGh5kQa0EE0_6wzkNRroP/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1WSChmJEeozs86cTC2qA02s2zSL22twGz/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/11MqHjAfIaCcjNI1Yjp3SkJhLrDC6qx9y/view?usp=sharing  </item>
+        <item>https://drive.google.com/file/d/1HwaRhIDGfFQ53R6darKAu1urikymmvui/view?usp=sharing  </item>
+        <item>https://drive.google.com/drive/folders/1tvmbhawPVzPqEQ8Sxm7Bwrp-Yag6jrwE?usp=sharing </item>
+
+    </string-array>
+    <string-array name="Rex_I_Uri">
+        <item>https://drive.google.com/file/d/1YEI4I4wcoCT8_tYsUfAGxl70SS054_wc/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1TD-xLV_iKMl6jM7YJ0UAJCC_NflZqDdy/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/0B1QDoVfRuDpMZUVkUlRPZHpfTU0/view</item>
+        <item>https://drive.google.com/file/d/1KCzec-ltlgEiXhJrLcjGrwM-zi5ILq9F/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1ZemTk6fpzRKvkRU7uRn3gQBCp2yFOfMC?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1L-ajWk0OQaCeqc8m7Qb4_fjJd0GfOpL6?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1yqZzNhMILbogCaD0dzsN4pOrxRkw1Id-/view?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Rex_II_Uri">
+        <item>https://drive.google.com/file/d/0B1QDoVfRuDpMZUVkUlRPZHpfTU0/view </item>
+        <item>https://drive.google.com/file/d/1n-gBtzUguVoj1DXTXr9EgXQVz4-z4BMZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1nNj6CMwmkv5mDCcQkeK6q84HtEEtEsYu/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1sTTTs0fNEJfnykz7O4B_mztorgfhwncs/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1O_y5YmcY5srQykuEZN5HUzQl9cTaLlE_/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/12Ps8Bza2bJwRs8tDDQyOoOgpnnKIZcOG/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/13AeyCqmm5y4K_5pAxzklH6IS6tm43ayT?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1tM5PIyRanJuPOlSDxSPaYF2AbuSgGD5r?usp=sharing </item>
+
+
+    </string-array>
+
+    <string-array name="Control_Uri">
+        <item>https://drive.google.com/file/d/1V3V_nD-lBlj-dBY6TGPlcfaFleaR4fAZ/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1VeRqsSKX3rPNY5DZvr1KIJjkD2ca68cj/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1UyZQ159KKTDVSAF_rs9FxOG0_qhTkJEC?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1JkiJErhqSjqAiVkh_Byfw9osKyxfopPO?usp=sharing</item>
+        <item>https://drive.google.com/open?id=1yugA8Pc4aWEPW6KquSVzMarYmzxQb9My </item>
+        <item>https://drive.google.com/drive/folders/1zd9SU-ursjMS58SHmQufRH6vFGEiCqhk?usp=sharing </item>
+
+    </string-array>
+    <string-array name="Combined_Uri">
+        <item>https://drive.google.com/file/d/1hzxOKkDrQyJwq6rTD7XshRiGM-DtIDDE/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1XblCXXcd3AeAdsh7nhz7lNI_WVfh6S8U/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/10evSXcnafO__x9a-OK-tBu2pi_KSiORZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1DjcEAuNaOIyq7hz8RDrpmQN-mFnWEaOL/view?usp=sharing	</item>
+        <item>https://drive.google.com/drive/folders/1rCSEcbWYgPooD04CsjXvRVRew1C6RUt9?usp=sharing</item>
+    </string-array>
+    <string-array name="Process_Design_Uri">
+        <item>https://drive.google.com/file/d/1q62n7DFQLRYalhsgsuI70AU7tLvhM0L3/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Pn_AE1EhVvpvO51WwM0tf2gbZAfkyP7e/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1nPO9pqoMobciDQ--BunMZPChpJY48W0d/view?usp=sharing</item>
+        <item>https://drive.google.com/open?id=1nYSTseqJL336N97MqUQC7I63frqPmeXv</item>
+        <item>https://drive.google.com/file/d/1sZibzwcimv91xS5I_8Yey9StLr6jVZpx/view?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Process_Safety_Engineering_Uri">
+        <item>https://drive.google.com/file/d/1JW-GX1LysRU4K5OL0Ag9gCBuH2y4nKMN/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Iv2U1980o7oTj5GIxmKUEQFAKmXkVqZd/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1gZqbjId4Vlp8eKD4GEn6lLcSV6m70p2z/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1rqOTyBLLLYyItSEuNIFj50xMj_R3iBzY/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1mSGILq4hxr8claAVbtfWIpRE-ITYRe9k?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1tkRK_YV8fhPWUtluQXZFm3Z2zRZubxiJ?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1CNZMkSUKtw15vpLo4whAQ80RNcoj6b85?usp=sharing</item>
+
+    </string-array>
+    <string-array name="Physical_Chemistry_Uri">
+        <item>https://drive.google.com/file/d/1XO_K4hGMi6u5KCcGxTkJq1MrZhb37pAj/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1iliA-FKaaE_wCPm2ZHj282E-yUcfxzg5/view?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1BS8qHGsEdwN2gJHTLzQhh_u4lfK8gVNF/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1uaiH6jZfM_qxUDej_2c6DH3DSo5VJf4y?usp=sharing</item>
+
+    </string-array>
+    //************************************** 5th Year
+    <string-array name="Local_Chemical_Process_Uri">
+        <item>https://drive.google.com/file/d/160kA3S3U2hPEsSjRHM9LIiu60HhJJcks/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1tooN-2L90Sde7cVc6KXTiDwqJuhsnFXP/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1sfTDCK5-dHxr6sVjaIr-qrQNNb9lj2OO?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Process_Dynamics_and_Control_Uri">
+        <item>https://drive.google.com/file/d/1V3V_nD-lBlj-dBY6TGPlcfaFleaR4fAZ/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1VeRqsSKX3rPNY5DZvr1KIJjkD2ca68cj/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1UyZQ159KKTDVSAF_rs9FxOG0_qhTkJEC?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1JkiJErhqSjqAiVkh_Byfw9osKyxfopPO?usp=sharing</item>
+        <item>https://drive.google.com/open?id=1yugA8Pc4aWEPW6KquSVzMarYmzxQb9My </item>
+        <item>https://drive.google.com/drive/folders/1zd9SU-ursjMS58SHmQufRH6vFGEiCqhk?usp=sharing </item>
+    </string-array>
+
+    <string-array name="Chemical_Plant_Design_Uri">
+        <item>https://drive.google.com/file/d/1q62n7DFQLRYalhsgsuI70AU7tLvhM0L3/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1Pn_AE1EhVvpvO51WwM0tf2gbZAfkyP7e/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1nPO9pqoMobciDQ--BunMZPChpJY48W0d/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1MOycgolLLpyFcUWtb3vy4-iLsGNbdT3p/view?usp=sharing</item>
+
+
+    </string-array>
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    ِ
+    //Labs
+
+    <string-array name="Lab_I_Uri">
+        <item>https://drive.google.com/file/d/1-w237fK49Be4JRsDWPcQaSKoIDtopxcJ/view?usp=sharing </item>
+        <item>http://www.mediafire.com/file/702lub0r8ok2m6c/lab1_reports%252C_Collection_-_CEC.zip/file</item>
+        <item>http://www.mediafire.com/file/5q9m2vssom8qs8a/Lab1-Dr.Shannag-Mid_Exam_-_CEC.pdf/file </item>
+    </string-array>
+
+    <string-array name="Lab_II_Uri">
+        <item>https://drive.google.com/file/d/1Ktuu2i5JKpfHaGKaLlqxpZeOFRnMmMgC/view?usp=sharing</item>
+        <item>http://www.mediafire.com/file/kic8vy7r7yshdhb/lab_2_CEC.rar/file </item>
+        <item>https://drive.google.com/drive/folders/1QHxmd_P54VtUoQxedvivQ40985Wfn8S9?usp=sharing </item>
+    </string-array>
+
+    <string-array name="Lab_III_Uri">
+        <item>https://drive.google.com/file/d/1GMoS542UTR3SgZ6ToJW2Be1ZRDLVK0F4/view?usp=sharing </item>
+        <item>https://www.mediafire.com/folder/1rpb13dxrxdr4/New_Lab3_Reports_-_CEC </item>
+
+    </string-array>
+
+    <string-array name="Lab_IV_Uri">
+        <item>https://drive.google.com/file/d/1yuWp4PQYQ2kXV253kfQVNr6cOR_rM6aV/view?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Matlab_Uri" >
+        <item>https://drive.google.com/file/d/1cDzDbrfdVgmhjcQ-4MGgQ4ArA8jHkSx2/view?usp=sharing</item>
+       <item>https://drive.google.com/drive/folders/1ies0S2_IT_0NsErIoc1jvRUaaiqFnyTz?usp=sharing</item>
+     <item>https://drive.google.com/drive/folders/1J42YfcDZccJ2k2s-QpAEpcbCfdTGdq2p?usp=sharing</item>
+    </string-array>
+
+
+
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    //************************************************************************************************************************
+    ِ
+    //A5tyary
+
+    <string-array name="Management_Uri">
+        <item>https://drive.google.com/drive/folders/14gOTUlGRTU4ke_zHWM3B9ypCPQavWv2w?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1jOpTHFi0Z-3_SS_1wvXOzJyOuu-RMMJg?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Air_Pollution_Uri">
+        <item>https://drive.google.com/drive/folders/18-V6bFlqFNs-vF3sdnlwob6XXR-Pfwpa?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1BjLOc6t7lTtq0o1PQ9I-85TTxQHIt3nc?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Quality_Control_Uri">
+        <item>https://drive.google.com/file/d/1x_chS5I0MytnbFD_9jcVSRxIfudMJ79h/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1EMUgFrMBk_0O3_xWXPQfJqAAvDbnS-u-/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/17k9dA8hFGjk-E7prZRRZn4keYEwqFvxW?usp=sharing </item>
+        <item>https://drive.google.com/open?id=1R3owdE6x9LfoWMC5NWCwF-NirqKVGh_l  </item>
+
+    </string-array>
+    <string-array name="Special_Topic_Uri">
+        <item>https://drive.google.com/file/d/1vbTIGwd_EkqVDU6DbwGdyXMsDJs9VoQ7/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1dw0s8t2jsAg_tzQaX3Fk7s_-qhdaZahr/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1n9ndIARvPuRUKSBs_i2ooqNg2ORjL1Ib?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1Ef7mrYgko_b70KhH4F9E1yid3Z2B55K8?usp=sharing</item>
+        <item>https://drive.google.com/file/d/16UVlddX7j7yXCtSMyEawjQqvMQqezqTS/view?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Materials_Science_Uri">
+        <item>https://drive.google.com/file/d/16LuB5PZ0aX86xbRGehdYgrDR5qzfWUOC/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1t3jilSTs8u6nY8mjW2knGpdu9o0RH8j_/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1khOQAFmzRJ_Ri2IFGysZ6vHFRGRbA5g2/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1N8Pav5IAugKxVutLViXBQijQfFhSYj18/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1DKq1ssZ44GlkCODt4cPHXnV1x_7vhXby/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1iapbXa5PuFR1spmBx1GoZGQ1XWvgIf9c?usp=sharing</item>
+
+    </string-array>
+    <string-array name="Separation_Uri">
+
+        <item>http://cecju.weebly.com/separation.html </item>
+
+
+    </string-array>
+
+    <string-array name="Solid_Wast_Management_Uri">
+        <item>https://drive.google.com/file/d/18ybZCNVVGAAzy1mE4KwdAgeFGRDVXR9Q/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/1DYhl3A-GxB1-28LFwEjagfAy3VWtj65w/view?usp=sharing </item>
+        <item> https://drive.google.com/drive/folders/1UBV8kvPttzN-4YqllS3O8gm9ALr9BzIC?usp=sharing</item>
+        <item> https://drive.google.com/file/d/1VBLyWFe4oXEjhbCSRAeywmDHWGRQVQYF/view?usp=sharing</item>
+    </string-array>
+    
+    <string-array name="BioChemical_Engineering_Uri">
+        <item>https://drive.google.com/open?id=0B1QDoVfRuDpMeUhoR1F6TE5ycUU</item>
+        <item> https://drive.google.com/open?id=0B1QDoVfRuDpMTFcxYXNKeEJzQzg	 </item>
+        <item> https://drive.google.com/open?id=0B1QDoVfRuDpMNGc3ZHpZaGtoR2M </item>
+
+    </string-array>
+
+
+    <string-array name="Corrosion_Engineering_Uri">
+        <item>https://drive.google.com/file/d/1Dlr7R8wnGYvbOM7uIuNoK2Dyrkrn_L0o/view?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/13E4A37NU8bQA5pNU9KHwU1q3j578TgWO?usp=sharing </item>
+        <item>https://drive.google.com/drive/folders/1Bsr8jiJO8d7Ra9LQZzfOcSHwonPjvfCi?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Process_Optimization_Uri">
+        <item>https://drive.google.com/open?id=0B1QDoVfRuDpMMl93aW5SMnYwQlE</item>
+        <item> https://drive.google.com/open?id=0B1QDoVfRuDpMcWJvNk00cnphY2s </item>
+
+
+    </string-array>
+
+    <string-array name="Water_Desalination_Uri">
+        <item>https://drive.google.com/file/d/1rqSLzH27d1RQn0yDcejbIBMvbdvpk22r/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1-iIPKc2Uf2FvXlA_-cZ0bf6_AiMIy7dl/view?usp=sharing </item>
+
+    </string-array>
+
+    <string-array name="Wast_Water_Treatment_Uri">
+        <item>https://drive.google.com/file/d/1H7Rd7GyBxMWbSMwtQeZDuxc5E1uGrC85/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1NiVfOV-hFejdoIbEOKCjj6c5uAglKUwi?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Metal_Extraction_Uri">
+        <item>https://drive.google.com/drive/folders/15E2IVz6UBDScGLbuUDOCCxYjqhQs6vFj?usp=sharing</item>
+    </string-array>
+
+    <string-array name="Polymer_Plastic_Engineering_Uri">
+        <item>https://drive.google.com/file/d/157xxIqRow7rtv09D9J1oGZtep2PypFzW/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1iSOTRzC6Ooa5yHwgvnajueVo8QeovoM5/view?usp=sharing </item>
+        <item>https://drive.google.com/file/d/16g4JV9kHN2FLoDWFT-DgucZeRg-KBXsZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1iSOTRzC6Ooa5yHwgvnajueVo8QeovoM5/view?usp=sharing</item>
+        <item>https://drive.google.com/drive/folders/1hGpCr3RlBYWLeI0ShYYKZHoOcXOTSuVI?usp=sharing</item>
+
+    </string-array>
+
+    <string-array name="Process_Analysis_Simulation_Uri">
+        <item>https://drive.google.com/file/d/16Ejz9xcdYrCWwLtR9AyOUBR2EyDAadGe/view?usp=sharing</item>
+
+    </string-array>
+
+
+</resources>

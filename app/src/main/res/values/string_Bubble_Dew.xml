@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="spicess">
+        1
+        <item>Argon-Ar</item>
+        1.001
+        <item>Acetaldehyde-C2H4O</item>
+        1.0011
+        <item>Acetic Acid-C2H4O2</item>
+        1.002
+        <item>Acetone -C3H6O</item>
+        1.003
+        <item>Acetylene-C2H2</item>
+        1.01
+        <item>Ammonia-NH3</item>
+        1.04
+        <item>Aniline-C6H7N</item>
+
+        2.0
+        <item>Benzene-C6H6</item>
+        2.1
+        <item>Bromine-Br2</item>
+
+
+        3.0
+        <item>Carbon Dioxide-CO2</item>
+        3.03
+        <item>Carbon Monoxide-CO</item>
+        3.06
+        <item>Carbon tetrachloride-CCl4</item>
+        3.1
+        <item>Chlorine-Cl2</item>
+
+
+        4.06
+        <item>Dimethyl Ether-C2H6O</item>
+
+
+        5.0
+        <item>Ethane-C2H6</item>
+        5.05
+        <item>Ethanol-C2H6O</item>
+        5.5
+        <item>Ethylene-C2H4</item>
+
+
+
+        8.003
+        <item>1-hexene-C6H12</item>
+        8.3
+        <item>Helium-H2</item>
+        8.6
+        <item>Hydrogen-H2</item>
+        8.65
+        <item>Hydrogen Chloride-HCl</item>
+        8.8
+        <item>Hydrogen Sulfide-H2S</item>
+
+
+        9.003
+        <item>IsoButane-C4H10</item>
+
+
+
+
+        13
+        <item>Methane-CH4</item>
+        13.1
+        <item>Methanol-CH4O</item>
+        13.9
+        <item>m-Xylene-C8H10</item>
+
+        14.001
+        <item>n-Butane-C4H10</item>
+        14.002
+        <item>n-Decane-C10H22</item>
+        14.005
+        <item>n-Hexane-C6H14</item>
+        14.008
+        <item>n-Nonane-C9H20</item>
+        14.011
+        <item>Nitric Dioxide-NO2</item>
+        14.01
+        <item>Nitric Oxide-NO</item>
+        14.02
+        <item>Nitrogen-N2</item>
+        14.05
+        <item>Nitrous Oxide-N2O</item>
+
+
+
+        15.9
+        <item>Oxygen-O2</item>
+        15.99
+        <item>o-Xylene</item>
+
+
+        16.006
+        <item>Phenol-C6H6O</item>
+        16.01
+        <item>Propane-C3H8</item>
+        16.7
+        <item>Propylene-C3H6</item>
+        16.9
+        <item>Pyridine-C5H5N</item>
+
+        19.06
+        <item>Sulfur Dioxide-SO2</item>
+        19.09
+        <item>Sulfur Trioxide-SO3</item>
+
+
+
+        20.9
+        <item>Toluene-C7H8</item>
+
+        23.01
+        <item>Water-H2O</item>
+
+
+    </string-array>
+
+
+    <string-array name="constant_a">
+        1
+        <item>8.6128</item>
+        1.001
+        <item>9.6279</item>
+        1.0011
+        <item>10.1878</item>
+        1.002
+        <item>10.0311</item>
+        1.003
+        <item>9.7279</item>
+        1.01
+        <item>10.3279</item>
+        1.04
+        <item>10.0546</item>
+
+        2.0
+        <item>9.2806</item>
+        2.1
+        <item>9.2239</item>
+
+        3.0
+        <item>15.9696</item>
+        3.03
+        <item>7.7484</item>
+        3.06
+        <item>9.254</item>
+        3.1
+        <item>9.3408</item>
+
+        4.06
+        <item>10.2265</item>
+
+       5.0
+        <item>9.0435</item>
+        5.05
+        <item>12.2917</item>
+        5.5
+        <item>8.9166</item>
+
+
+        8.003
+        <item>9.1887</item>
+        8.3
+        <item>5.6312</item>
+        8.6
+        <item>7.0131</item>
+        8.65
+        <item>9.8838</item>
+        8.8
+        <item>9.4838</item>
+
+        9.003
+        <item>8.9179</item>
+
+        13
+        <item>8.6041</item>
+        13.1
+        <item>11.9673</item>
+        13.9
+        <item>9.5188</item>
+
+
+
+
+        14.001
+        <item>9.058</item>
+        14.002
+        <item>9.3912</item>
+        14.005
+        <item>9.2164</item>
+        14.008
+        <item>9.3469</item>
+        14.011
+        <item>13.9122</item>
+        14.01
+        <item>13.5112</item>
+        14.02
+        <item>8.334</item>
+        14.05
+        <item>9.5069</item>
+
+        15.9
+        <item>8.7873</item>
+        15.99
+        <item>9.4954</item>
+
+
+        16.006
+        <item>9.8077</item>
+        16.01
+        <item>9.1058</item>
+        16.7
+        <item>9.0825</item>
+        16.9
+        <item>9.4708</item>
+
+        19.06
+        <item>10.1478</item>
+        19.09
+        <item>14.2201</item>
+
+
+        20.9
+        <item>9.3935</item>
+
+
+        23.01
+        <item>11.6834</item>
+
+    </string-array>
+
+    <string-array name="constant_b">
+        1
+        <item>700.511</item>
+        1.001
+        <item>2465.15</item>
+        1.0011
+        <item>3405.57</item>
+        1.002
+        <item>2940.46</item>
+        1.003
+        <item>1637.14</item>
+        1.01
+        <item>2132.5</item>
+        1.04
+        <item>3857.52</item>
+
+        2.0
+        <item>2788.51</item>
+        2.1
+        <item>2582.32</item>
+
+        3.0
+        <item>3103.39</item>
+        3.03
+        <item>530.22</item>
+        3.06
+        <item>2808.19</item>
+        3.1
+        <item>1978.32</item>
+
+
+        4.06
+        <item>2361.44</item>
+
+
+        5.0
+        <item>1511.42</item>
+        5.05
+        <item>3803.98</item>
+        5.5
+        <item>1347.01</item>
+
+
+        8.003
+        <item>2654.81</item>
+        8.3
+        <item>33.7329</item>
+        8.6
+        <item>164.9</item>
+        8.65
+        <item>1714.25</item>
+        8.8
+        <item>1768.69</item>
+
+
+        9.003
+        <item>2032.76</item>
+
+        13
+        <item>597.84</item>
+        13.1
+        <item>3626.55</item>
+        13.9
+        <item>3366.99</item>
+
+
+
+        14.001
+        <item>2154.9</item>
+        14.002
+        <item>3456.8</item>
+        14.005
+        <item>2697.55</item>
+        14.008
+        <item>3291.45</item>
+        14.011
+        <item>4141.29</item>
+        14.01
+        <item>1572.52</item>
+        14.02
+        <item>588.72</item>
+        14.05
+        <item>1506.49</item>
+
+        15.9
+        <item>734.55</item>
+        15.99
+        <item>3395.57</item>
+
+
+        16.006
+        <item>3490.89</item>
+        16.01
+        <item>1872.46</item>
+        16.7
+        <item>1807.53</item>
+        16.9
+        <item>3095.13</item>
+
+        19.06
+        <item>2302.35</item>
+        19.09
+        <item>3995.7</item>
+
+        20.9
+        <item>3096.52</item>
+
+        23.01
+        <item>3816.44</item>
+
+    </string-array>
+
+    <string-array name="constant_c">
+        1
+        <item>-5.84</item>
+        1.001
+        <item>-37.15</item>
+        1.0011
+        <item>-56.34</item>
+        1.002
+        <item>-35.93</item>
+        1.003
+        <item>-19.77</item>
+        1.01
+        <item>-32.98</item>
+        1.04
+        <item>-73.15</item>
+
+
+        2.0
+        <item>-52.36</item>
+        2.1
+        <item>-51.56</item>
+
+        3.0
+        <item>-0.16</item>
+        3.03
+        <item>-13.15</item>
+        3.06
+        <item>-45.99</item>
+        3.1
+        <item>-27.01</item>
+
+
+        4.06
+        <item>-17.1</item>
+
+
+        5.0
+        <item>-17.16</item>
+        5.05
+        <item>-41.68</item>
+        5.5
+        <item>-18.15</item>
+
+
+        8.003
+        <item>-47.3</item>
+        8.3
+        <item>1.79</item>
+        8.6
+        <item>3.19</item>
+        8.65
+        <item>-14.45</item>
+        8.8
+        <item>-26.06</item>
+
+        9.003
+        <item>-33.15</item>
+
+        13
+        <item>-7.16</item>
+        13.1
+        <item>-34.29</item>
+        13.9
+        <item>-58.04</item>
+
+
+
+        14.001
+        <item>-34.42</item>
+        14.002
+        <item>-78.67</item>
+        14.005
+        <item>-48.78</item>
+        14.008
+        <item>-71.33</item>
+        14.011
+        <item>3.65</item>
+        14.01
+        <item>-4.88</item>
+        14.02
+        <item>-6.6</item>
+        14.05
+        <item>-25.99</item>
+
+        15.9
+        <item>-6.45</item>
+        15.99
+        <item>-59.46</item>
+
+
+        16.006
+        <item>-98.59</item>
+        16.01
+        <item>-25.16</item>
+        16.7
+        <item>-26.15</item>
+        16.9
+        <item>-61.15</item>
+
+        19.06
+        <item>-35.97</item>
+        19.09
+        <item>-36.66</item>
+
+        20.9
+        <item>-53.67</item>
+
+        23.01
+        <item>-46.13</item>
+
+    </string-array>
+
+    <string-array name="t_min">
+        1
+        <item>81.05</item>
+        1.001
+        <item>210</item>
+        1.0011
+        <item>290</item>
+        1.002
+        <item>241</item>
+        1.003
+        <item>194</item>
+        1.01
+        <item>179</item>
+        1.04
+        <item>340</item>
+
+        2.0
+        <item>280</item>
+        2.1
+        <item>259</item>
+
+        3.0
+        <item>154</item>
+        3.03
+        <item>63</item>
+        3.06
+        <item>253</item>
+        3.1
+        <item>172</item>
+
+        4.06
+        <item>179</item>
+
+
+        5.0
+        <item>130</item>
+        5.05
+        <item>270</item>
+        5.5
+        <item>120</item>
+
+
+        8.003
+        <item>240</item>
+        8.3
+        <item>3.7</item>
+        8.6
+        <item>14</item>
+        8.65
+        <item>137</item>
+        8.8
+        <item>190</item>
+
+        9.003
+        <item>187</item>
+
+        13
+        <item>93</item>
+        13.1
+        <item>257</item>
+        13.9
+        <item>300</item>
+
+
+        14.001
+        <item>195</item>
+        14.002
+        <item>330</item>
+        14.005
+        <item>245</item>
+        14.008
+        <item>312</item>
+        14.011
+        <item>230</item>
+        14.01
+        <item>95</item>
+        14.02
+        <item>54</item>
+        14.05
+        <item>144</item>
+
+        15.9
+        <item>63</item>
+        15.99
+        <item>305</item>
+
+
+        16.006
+        <item>345</item>
+        16.01
+        <item>164</item>
+        16.7
+        <item>160</item>
+        16.9
+        <item>285</item>
+
+        19.06
+        <item>195</item>
+        19.09
+        <item>290</item>
+
+        20.9
+        <item>280</item>
+
+        23.01
+        <item>284</item>
+
+    </string-array>
+
+    <string-array name="t_max">
+        1
+        <item>94.05</item>
+        1.001
+        <item>320</item>
+        1.0011
+        <item>430</item>
+        1.002
+        <item>350</item>
+        1.003
+        <item>202</item>
+        1.01
+        <item>261</item>
+        1.04
+        <item>500</item>
+
+        2.0
+        <item>377</item>
+        2.1
+        <item>354</item>
+        3.0
+        <item>204</item>
+        3.03
+        <item>108</item>
+        3.06
+        <item>374</item>
+        3.1
+        <item>264</item>
+
+
+        4.06
+        <item>265</item>
+
+
+
+        5.0
+        <item>199</item>
+        5.05
+        <item>369</item>
+        5.5
+        <item>182</item>
+
+
+        8.003
+        <item>360</item>
+        8.3
+        <item>4.3</item>
+        8.6
+        <item>25</item>
+        8.65
+        <item>200</item>
+        8.8
+        <item>230</item>
+
+        9.003
+        <item>280</item>
+
+        13
+        <item>120</item>
+        13.1
+        <item>364</item>
+        13.9
+        <item>440</item>
+
+
+
+        14.001
+        <item>290</item>
+        14.002
+        <item>476</item>
+        14.005
+        <item>370</item>
+        14.008
+        <item>452</item>
+        14.011
+        <item>320</item>
+        14.01
+        <item>140</item>
+        14.02
+        <item>90</item>
+        14.05
+        <item>200</item>
+
+        15.9
+        <item>100</item>
+        15.99
+        <item>445</item>
+
+        16.006
+        <item>481</item>
+        16.01
+        <item>294</item>
+        16.7
+        <item>365</item>
+        16.9
+        <item>425</item>
+
+
+        19.06
+        <item>280</item>
+        19.09
+        <item>332</item>
+
+        20.9
+        <item>410</item>
+
+        23.01
+        <item>441</item>
+
+    </string-array>
+
+    <string-array name="t_critical">
+        1
+        <item>150.8</item>
+        1.001
+        <item>461</item>
+        1.0011
+        <item>594.4</item>
+        1.002
+        <item>508.1</item>
+        1.003
+        <item>308.3</item>
+        1.01
+        <item>405.6</item>
+        1.04
+        <item>699</item>
+
+        2.0
+        <item>562.1</item>
+        2.1
+        <item>584</item>
+
+        3.0
+        <item>304.2</item>
+        3.03
+        <item>132.9</item>
+        3.06
+        <item>556.4</item>
+        3.1
+        <item>417</item>
+
+        4.06
+        <item>400</item>
+
+        5.0
+        <item>305.4</item>
+        5.05
+        <item>516.2</item>
+        5.5
+        <item>282.4</item>
+
+
+        8.003
+        <item>504</item>
+        8.3
+        <item>5.19</item>
+        8.6
+        <item>33.2</item>
+        8.65
+        <item>324.6</item>
+        8.8
+        <item>373.2</item>
+
+
+        9.003
+        <item>408.1</item>
+
+        13
+        <item>190.6</item>
+        13.1
+        <item>512.6</item>
+        13.9
+        <item>617</item>
+
+
+
+        14.001
+        <item>425.2</item>
+        14.002
+        <item>617.6</item>
+        14.005
+        <item>507.4</item>
+        14.008
+        <item>594.6</item>
+        14.011
+        <item>431.4</item>
+        14.01
+        <item>180</item>
+        14.02
+        <item>126.2</item>
+        14.05
+        <item>309.6</item>
+
+
+
+        15.9
+        <item>154.6</item>
+        15.99
+        <item>630.2</item>
+
+        16.006
+        <item>694.2</item>
+        16.01
+        <item>370</item>
+        16.7
+        <item>365</item>
+        16.9
+        <item>620</item>
+
+        19.06
+        <item>430.8</item>
+        19.09
+        <item>491</item>
+
+        20.9
+        <item>591.7</item>
+
+        23.01
+        <item>647.3</item>
+
+    </string-array>
+
+    <string-array name="p_critical">
+        1
+        <item>48.74</item>
+        1.001
+        <item>461</item>
+        1.0011
+        <item>57.86</item>
+        1.002
+        <item>47.01</item>
+        1.003
+        <item>61.4</item>
+        1.01
+        <item>112.77</item>
+        1.04
+        <item>53.09</item>
+
+        2.0
+        <item>48.94</item>
+        2.1
+        <item>103.35</item>
+
+        3.0
+        <item>73.76</item>
+        3.03
+        <item>34.96</item>
+        3.06
+        <item>45.6</item>
+        3.1
+        <item>77.01</item>
+
+        4.06
+        <item>53.7</item>
+
+        5.0
+        <item>48.74</item>
+        5.05
+        <item>63.83</item>
+        5.5
+        <item>50.36</item>
+
+
+        8.003
+        <item>31.71</item>
+        8.3
+        <item>2.27</item>
+        8.6
+        <item>12.97</item>
+        8.65
+        <item>83.09</item>
+        8.8
+        <item>89.37</item>
+
+
+
+        9.003
+        <item>36.48</item>
+
+        13
+        <item>46</item>
+        13.1
+        <item>80.96</item>
+        13.9
+        <item>35.46</item>
+
+
+
+        14.001
+        <item>37.9</item>
+        14.002
+        <item>21.08</item>
+        14.005
+        <item>29.69</item>
+        14.008
+        <item>23.1</item>
+        14.011
+        <item>101.33</item>
+        14.01
+        <item>64.85</item>
+        14.02
+        <item>126.2</item>
+        14.05
+        <item>72.45</item>
+
+        15.9
+        <item>50.46</item>
+        15.99
+        <item>37.29</item>
+
+        16.006
+        <item>61.3</item>
+        16.01
+        <item>42.44</item>
+        16.7
+        <item>46.2</item>
+        16.9
+        <item>56.34</item>
+
+        19.06
+        <item>78.83</item>
+        19.09
+        <item>82.07</item>
+
+        20.9
+        <item>41.14</item>
+
+        23.01
+        <item>220.48</item>
+
+    </string-array>
+
+    <string-array name="acentric_factor">
+        1
+        <item>-0.004</item>
+        1.001
+        <item>0.303</item>
+        1.0011
+        <item>0.454</item>
+        1.002
+        <item>0.33</item>
+        1.003
+        <item>0.184</item>
+        1.01
+        <item>0.25</item>
+        1.04
+        <item>0.382</item>
+
+        2.0
+        <item>0.212</item>
+        2.1
+        <item>0.132</item>
+
+        3.0
+        <item>0.225</item>
+        3.03
+        <item>0.049</item>
+        3.06
+        <item>0.194</item>
+        3.1
+        <item>0.073</item>
+
+        4.06
+        <item>0.192</item>
+
+
+        5.0
+        <item>0.099</item>
+        5.05
+        <item>0.085</item>
+        5.5
+        <item>50.36</item>
+
+
+
+        8.003
+        <item>0.285</item>
+        8.3
+        <item>-0.387</item>
+        8.6
+        <item>-0.22</item>
+        8.65
+        <item>0.12</item>
+        8.8
+        <item>0.1</item>
+
+
+
+        9.003
+        <item>0.176</item>
+
+        13
+        <item>0.008</item>
+        13.1
+        <item>0.559</item>
+        13.9
+        <item>0.331</item>
+
+
+        14.001
+        <item>0.193</item>
+        14.002
+        <item>0.49</item>
+        14.005
+        <item>0.296</item>
+        14.008
+        <item>0.444</item>
+        14.011
+        <item>0.86</item>
+        14.01
+        <item>0.607</item>
+        14.02
+        <item>0.039</item>
+        14.05
+        <item>0.16</item>
+
+        15.9
+        <item>0.021</item>
+        15.99
+        <item>0.314</item>
+
+        16.006
+        <item>0.44</item>
+        16.01
+        <item>0.152</item>
+        16.7
+        <item>0.148</item>
+        16.9
+        <item>0.24</item>
+
+        19.06
+        <item>0.251</item>
+        19.09
+        <item>0.41</item>
+
+        20.9
+        <item>0.257</item>
+
+        23.01
+        <item>0.344</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="volume1">
+        <item>L/mol</item>
+        <item>m^3/mol</item>
+        <item>cm^3/mol</item>
+        <item>in^3/mol</item>
+        <item>ft^3/mol</item>
+
+
+
+    </string-array>
+
+
+
+
+    <string-array name="Temperature">
+        <item>K</item>
+        <item>C</item>
+        <item>F</item>
+        <item>R</item>
+    </string-array>
+    <string-array name="Temperature_num">
+        <item>1</item>
+        <item>-273.15</item>
+        <item>-457.87</item>
+        <item>1.8</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="pressure">
+        <item>bar</item>
+        <item>atm</item>
+        <item>MPa</item>
+        <item>kPa</item>
+        <item>Pa</item>
+        <item>mmHg</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressure_num">
+        <item>1</item>
+        <item>0.986923</item>
+        <item>0.1</item>
+        <item>100</item>
+        <item>100000</item>
+        <item>750.061683</item>
+        <item>14.503775</item>
+    </string-array>
+
+
+
+    <string-array name="force">
+        <item>N</item>
+        <item>dyn</item>
+        <item>kgf</item>
+        <item>Ibf</item>
+    </string-array>
+
+    <string-array name="force_num">
+        <item>1</item>
+        <item>100000</item>
+        <item>0.101972</item>
+        <item>0.224809</item>
+
+    </string-array>
+
+    <string-array name="work">
+        <item>J</item>
+        <item>kJ</item>
+        <item>cal</item>
+        <item>BTU</item>
+        <item>kW.h</item>
+        <item>ft.Ibf</item>
+        <item>in.Ibf</item>
+
+    </string-array>
+
+    <string-array name="work_num">
+        <item>1</item>
+        <item>0.001</item>
+        <item>0.239006</item>
+        <item>0.00094782</item>
+        <item>0.000000277778</item>
+        <item>0.737562</item>
+        <item>8.850746</item>
+
+    </string-array>
+
+    <string-array name="power">
+        <item>W</item>
+        <item>kW</item>
+        <item>MW</item>
+        <item>kcal/h</item>
+        <item>hp</item>
+        <item>BTU/h</item>
+
+
+    </string-array>
+
+    <string-array name="power_num">
+        <item>1</item>
+        <item>0.001</item>
+        <item>0.000001</item>
+        <item>0.860421</item>
+        <item>0.00134102</item>
+        <item>3.412142</item>
+
+
+    </string-array>
+
+    <string-array name="length">
+        <item>m</item>
+        <item>inch</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mile</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>km</item>
+        <item>um</item>
+        <item>pm</item>
+    </string-array>
+
+
+    <string-array name="length_num">
+        <item>1.0</item>
+        <item>39.370079</item>
+        <item>3.280839</item>
+        <item>1.0936133 </item>
+        <item>0.00062137119 </item>
+        <item>1000</item>
+        <item>100</item>
+        <item>10</item>
+        <item>0.001</item>
+        <item>1000000</item>
+        <item>1000000000000</item>
+
+
+    </string-array>
+
+
+    <string-array name="mass">
+        <item>kg</item>
+        <item>g</item>
+        <item>mg</item>
+        <item>metric ton</item>
+        <item>Ibm</item>
+        <item>oz</item>
+
+
+    </string-array>
+
+    <string-array name="mass_num">
+        <item>1.0</item>
+        <item>1000</item>
+        <item>1000000</item>
+        <item>0.001 </item>
+        <item>2.204623 </item>
+        <item>35.273962</item>
+    </string-array>
+
+
+    <string-array name="volume">
+        <item>L</item>
+        <item>m^3</item>
+        <item>cm^3</item>
+        <item>dm^3</item>
+        <item>in^3</item>
+        <item>ft^3</item>
+        <item>yd^3</item>
+        <item>gal(UK)</item>
+        <item>gal(US)</item>
+
+    </string-array>
+
+    <string-array name="volume_num">
+        <item>1</item>
+        <item>0.001</item>
+        <item>1000</item>
+        <item>1</item>
+        <item>61.023744</item>
+        <item>0.035315</item>
+        <item>0.001308</item>
+        <item>0.219969</item>
+        <item>0.264172</item>
+    </string-array>
+
+
+    <string-array name="Area">
+        <item>m^2</item>
+        <item>dm^2</item>
+        <item>cm^2</item>
+        <item>mm^2</item>
+        <item>km^2</item>
+        <item>in^2</item>
+        <item>ft^2</item>
+        <item>yd^2</item>
+
+
+
+    </string-array>
+
+    <string-array name="Area_num">
+        <item>1</item>
+        <item>100</item>
+        <item>10000</item>
+        <item>1000000</item>
+        <item>0.000001</item>
+        <item>1550.0031</item>
+        <item>10.76391</item>
+        <item>1.19599</item>
+
+
+
+    </string-array>
+    <string-array name="time">
+        <item>year</item>
+        <item>s</item>
+        <item>min</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+
+
+
+    </string-array>
+    <string-array name="time_num">
+        <item>1</item>
+        <item>31536000</item>
+        <item>525600</item>
+        <item>8760</item>
+        <item>365</item>
+        <item>52.142857</item>
+        <item>12</item>
+
+
+
+    </string-array>
+
+
+
+
+</resources>
